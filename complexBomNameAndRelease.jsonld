@@ -1,0 +1,3862 @@
+[ {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116#SPDXRef-DOCUMENT",
+  "@type" : "BillOfMaterials",
+  "spdx:name" : "ComplexBomMainProject_2015-10-22 14:21:07",
+  "creationInfo" : {
+    "spdx:creator" : "Tool: ",
+    "spdx:created" : "2015-11-03T18:14:21.000Z"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116",
+  "@type" : "Project",
+  "name" : "JoeWithAG",
+  "revision" : "9"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9bf33e299abc293d361f9c47453d646f"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "b6bff860f76389149b25aabb17ad31049e7d7e7e"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9ef242ab4dc60c3a6836d2d4b38a4573"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "758d7da13db78e2e04917da7ff854b576ef60799"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/bool.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "5d2bf9b728a067bd749f50d3cb1016bb"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "88811b6e6c53a6077199ffae907c467a8e40b582"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/geo_selfuncs.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "50bd541fa1d5cafb9b394570500f27fb"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "bcf5db0b9cff775a9c4d0057b70dcc5d2ff827e2"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "b8fa25b41b3f52835cc04b36e5c28297"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "c271f24b955bf711e791f9750364baf2b01090fd"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "fedd5c11a62e735f331d00d6cfc429ae"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "b3d6a675de8935e2bc5a714552b84d6f3c1bcfc2"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/shmtest.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "83f4f3bb41de55af194aaf5850bc86b8"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "0d166de015facb657cc9cea151c6d532a948c47b"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/name.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "10eb1f4f1fd8562abbdb4f9afdc07be9"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "d03892818cb084d7717d7f38776c899574bad4d2"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/meta-inf/ourfaces.tld",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "3ffee98e08e622164c5fcc84fc813bde"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "4472455584b7b0392d46563e888d5328c1a80dfb"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/blowfish.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "5022ffd64f6d56801ae3da6c40d227a2"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "23f6181d10b63373e90a2d313634cdb08d9276f1"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "13e0d5869d047f943d56b6ef17db29bb"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "935bd5eaae97ac2764dbe6db77744cd84dcdb7cc"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/bftest.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9ddb1ce27fe41aef93639b3adec687a9"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "af449421bbb97ffc2a951ead1ae846a34c2f01b5"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/frames.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "dbbd51d12ef2cd04df9228365d856ec5"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "17e712a10751fa11a5c6a5781ef6cc37e8e590a9"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/like_match.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "b1b4064320e591ecc246fab51a12aeb9"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "95b4c97373723dbe2cb2cbc9d8612a4f9f204a23"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pg_locale.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "1869b49c4f2489925b45b84334733d5d"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "624745837c396f2abbe83ffd164c6ca31aff0e40"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/filetwo.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "a895770a65365ec6b2b6c45e9527dab5"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "0cc3cccb1488fa94a78d899be721b3535e591979"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/ourfaces.css",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "0c58c00b325f2c9e7f12a7bd6e7c225f"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "3f61d39e0619d15caa670a1b5a1ad2be241a5e49"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree-control.css",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9e0e91e0804a4f491b5edfed6015065a"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "9f06359ccda2064ea43dfb36077623794a78415f"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/Makefile",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "8b2923b22326c8bb44a320e2c63b9147"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "8b03a5b29fa2aa26249201a33c1fda98ab17482c"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/gpgsplit.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "d8947e44713bc443cbc428efeb3fca78"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "01c110ece4585819b5feda6e7ec9ca792eeefcc9"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/mpicalc.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "0196e74fa795b9f9c4f1daf11613f103"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "a0e08bd8a96611df74c2328a76ac6d95e8d63a56"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/ascii.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "b70253cf196a42041c9cd729742fc46c"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "7035123249b9dc8479cd39334b332127224867c6"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/meta-inf/faces-config.xml",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "62d651552413bf8bea4a9e33111f3b45"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "bb58dd24f57589c3b79d18fa9f15cb7cc80f2c6a"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/mk-tdata.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9919ccc56f2f0abe888b83f2d78379be"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "88f044fd6402357e0e16e391a62afae33c6fa1e3"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-fileupload-1.1.jar",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "dd7407036437bb67be02772ec321a570"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "b2d02a766acfe31d6541c44c7d17cc9375b8aca1"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/lucene-1.4.3.jar",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9e63f898d71be8e7f79c0aab62cf6b36"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "65ab2b91e4dde9e885d5cf4cb27a84af770aa841"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-io-1.1.jar",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "ffd27d70f20214e49f9b796bf6fe32f4"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "5e986a7e4b0472aebe121154178dab2da26a8bf5"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/LICENSE-JSF.txt",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "2933a69ef334637a4898f6befb0c4996"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "2bf4244dca1994a303f205239c040f7a81c701b2"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/samplefile1.h",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "d3dd5d3df204e268ce53e790fe67a5c8"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "7ac12052c1f77636796031499466ad5f24931cda"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/arrayutils.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "a9b2e5be7bac797dcae93946699ff5b7"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "e1c2703f8d345190c4aa103286271c631cf1765c"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/not_in.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "736805472899e3c565bd0a3023078aca"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "26839b902e1b19bd7f37f68f9497799dd704571f"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "ddb340c9e8e64e767dc9566d3bf895c6"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "a3d841b8504b39bf6829fa130bb8f441887462a6"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "35054fa14c713fc721fb04cf4249d95d"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "5a6efb864e1ec9a25d66e09a7992aa0068070e0f"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/CodeRenderer.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "6055e25872c1d9531bfc78875bfd1e33"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "3fc911b4e5659687b1cf0361cf459c7d7aaaf0df"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/CodeFormatter.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "6898cde4918bf7feb5192ed8f3755be8"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "47623fd932c4945dba7fcfaa34c847182961406b"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/version.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "f8069bf99ca502369056e09d8f6445be"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "09e0504ff6ef06baca8f43b6d1702d57509f0f11"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "010f52bdc003f1077aca4055f98799cf"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "ed01b9d9cbdf4e18a07484d63a890681e44b8dfa"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/datum.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9858f899327ef75cd5d097cf4b3a779c"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "dcdf7a4360e9d502bab9cef579e1d6c892d9355a"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-logging.jar",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "8a507817b28077e0478add944c64586a"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "f029a2aefe2b3e1517573c580f948caac31b1056"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "75740cb2389fe2415c13f13721feb13c"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "0c65f7600a8768664f38a0f85d1af31daaa0b305"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/lockfuncs.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "3b6b4393b324da4c08e994b54f86d011"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "b7c91630bc77bb045867f9b3581765871154c070"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/sets.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "71c1da4bec9a4b0eb3761b63300909f3"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "a809e88eadffa7c7abd5c0b15906f91a51bca57b"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/numutils.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "8fab3ca986da1a82f69cbb1b73cca636"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "970ee390fa8df80faa7043faebb53310d923b9ec"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/openvpn.exe",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "013d1750f50d28fdbfa3afbad16b0913"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "315544d4b995d3e2bb11627216dbb18972e9fdad"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "8a6e85ae3d664a4a28b559a6efe62726"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "376be31e5141fadb7c11fcf7732c038dbb9b21b1"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/oid.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "3870acefc5d054b9e936d45c8d153d9b"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "5b69dd7079a0ca94ce286b440a07bcc6944eabae"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/quote.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "9791bf3e35b7d8a6fa6a6662113346a4"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "c106a487ae33269a81c1ecc5f20e5b1161dd060c"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/SUN-PUBLIC-LICENSE.txt",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "ac975b994b6a3fd75205d50cabc226a3"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "ef2ee318a1da94db52e01f7bea57da9328e280ff"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/samplefile2.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "bbd8df7a9951d62f83c5e7da0dcabd0c"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "7be5e3341129b374512d419d46d1560d71f4e6c0"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/tid.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "352769494e1b906d760e616aea44270b"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "7238d2b0b2ea8bb4cce3915aadfeefb537c73b8a"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pseudotypes.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "c72bf13abf478602177129a073c90026"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "a16772b911c4d0e371263dc1d2d1ec739bb64e9a"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheLRU.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "0357750eec080cbad734da69946181b5"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "d3a2699dbf6ee0755df1f25766de843cfced8fb7"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "93a7b0050f4cdf3ca041290b89d70a5f"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "2a03fe062af5c7fab7029bb70c800dcf174dec4b"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pgstatfuncs.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "c3535bf40a2e4914211c784693099c1b"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "3ba6f7e8ce15e0f5097245b80673102e89786412"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "6e22a9eb67b3866f0166ee321c532daa"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "7d223fd5f98eea786582a32a7faf34e2f176e040"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO2.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "d45151499700a953bbdfcb26ac3473c8"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "f2fa41b1495c98d94d051fdc57b67e1b6e24d051"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheRandom.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "ced1a47b106d16bb77868f023f336f2f"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "f11acf6655649c8d36e332861d3e946e4e299651"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCacheEntry.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "4a781a62686f7ae3ef9c128e677ff2f8"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "2510b1e8a2bfcb5a64d730c54285f45156f9e761"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "5aed93698d61b9cf13f192f32404615a"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "d3fa7724af0f919a479c46dd42eae673e3e837aa"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/mac.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "759f13619e9ca2719f1e2feba4dc97a6"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "87754d0a6dced7af9937a12ef08d59f8e65fa88e"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/RegexFilenameFilter.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "d3c14b2b1c3724daea7b93b59af7266d"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "dc118121813e8e946ba6603ed51514114f4cb854"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCache.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "53926cbeaf001cac11cc543ee148e218"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "bf0337d256b51302b1d20ceae7b8d45ff7769021"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/GlobFilenameFilter.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "34879211139cc6e3538dceb12fe2b52e"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "2f57969211c460d444c2e15971aeb1394042834c"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/clean-sat.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "2b75f31c07a3baa1996e99647a4f0796"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "7a54cec28b118dc3e6b41dd4211d88790a3d7e90"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "cbc0e0cdf6ec3ece33e2ba5bc63268b3"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "5431edfc02e9780e3340d08a2e57125e2e99fbb6"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/AwkFilenameFilter.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "1a5590bec604c1e5d7224ba892ac27ca"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "2da2c24b3e1ec4e51824521da5e5f1779e4efbf1"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/CodeTag.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "a22b98d25b23dc0174a78215fd4a4ce2"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "48c1d2f9126df1606e475b1e6757d7fd01c2cb13"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/LICENSE-APACHE.txt",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "b26af8f84049e82f6a4805d68b0f178d"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "2d05a5f70ffb6fbf6fcbf65bb6f4cd48a8b2592a"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/xid.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "0c5366d499c22268ca06adcf735d94d0"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "36cae114893d376ae0b39f01e75d0f57e9a9628d"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/Perl5FilenameFilter.java",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "b7bb9f09d3454ca28042792a50c26c37"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "57fcd7c742027ffabf8688397df7c009a87d4304"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/overview.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "e57c167dc794e8c362adecba39d2454d"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "2b0566d430675cbf1b6990d1ea8296b8141dd987"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/package.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "951dfa0fb348a20fc274b568eb0a7cdf"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "16d20c98aa86f3e4225ce3d9f2fef1cacacba7b4"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/char.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "415f9c0dc283dc525e5c73f74b6a4232"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "dab63c38b3d74e1f298c50fdcdb427d43b310f51"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/package.html",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "06a2350fc07aab87f65f585d61fe9fda"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "3ddeb726a50c74bcc2d689242635dcf4ec6940fa"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/misc.c",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "569f0e1a721fbd5baa657c02986a6608"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "05544050bf19d41e7eb9ca4b2cd75aad2339e550"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/GNU%20GENERAL%20PUBLIC%20LICENSE.txt",
+  "@type" : "File",
+  "checksum" : [ {
+    "algorithm" : "md5",
+    "checksumValue" : "79e0da3fbdf69273a54a168daab37902"
+  }, {
+    "algorithm" : "sha1",
+    "checksumValue" : "3e9609df4df14e1efb15ee9a9625bd911530d437"
+  } ]
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/blowfish.c",
+  "@type" : "File",
+  "fileName" : "./blowfish.c",
+  "fileType" : "SOURCE",
+  "size" : 17828
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib",
+  "@type" : "File",
+  "fileName" : "./lib/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-fileupload-1.1.jar",
+  "@type" : "File",
+  "fileName" : "./lib/commons-fileupload-1.1.jar",
+  "fileType" : "ARCHIVE",
+  "size" : 31825
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-io-1.1.jar",
+  "@type" : "File",
+  "fileName" : "./lib/commons-io-1.1.jar",
+  "fileType" : "ARCHIVE",
+  "size" : 61562
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-logging.jar",
+  "@type" : "File",
+  "fileName" : "./lib/commons-logging.jar",
+  "fileType" : "ARCHIVE",
+  "size" : 38015
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/lucene-1.4.3.jar",
+  "@type" : "File",
+  "fileName" : "./lib/lucene-1.4.3.jar",
+  "fileType" : "ARCHIVE",
+  "size" : 323983
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses",
+  "@type" : "File",
+  "fileName" : "./licenses/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/GNU%20GENERAL%20PUBLIC%20LICENSE.txt",
+  "@type" : "File",
+  "fileName" : "./licenses/GNU GENERAL PUBLIC LICENSE.txt",
+  "fileType" : "APPLICATION",
+  "size" : 17607,
+  "rdfs:comment" : "Non used Usage"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/LICENSE-APACHE.txt",
+  "@type" : "File",
+  "fileName" : "./licenses/LICENSE-APACHE.txt",
+  "fileType" : "APPLICATION",
+  "size" : 2260
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/LICENSE-JSF.txt",
+  "@type" : "File",
+  "fileName" : "./licenses/LICENSE-JSF.txt",
+  "fileType" : "APPLICATION",
+  "size" : 9799
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/SUN-PUBLIC-LICENSE.txt",
+  "@type" : "File",
+  "fileName" : "./licenses/SUN-PUBLIC-LICENSE.txt",
+  "fileType" : "APPLICATION",
+  "size" : 23422
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/openvpn.exe",
+  "@type" : "File",
+  "fileName" : "./openvpn.exe",
+  "fileType" : "BINARY",
+  "size" : 415744
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/samplefile1.h",
+  "@type" : "File",
+  "fileName" : "./samplefile1.h",
+  "fileType" : "SOURCE",
+  "size" : 6474
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/samplefile2.c",
+  "@type" : "File",
+  "fileName" : "./samplefile2.c",
+  "fileType" : "SOURCE",
+  "size" : 3503
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo",
+  "@type" : "File",
+  "fileName" : "./src_jo/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io",
+  "@type" : "File",
+  "fileName" : "./src_jo/io/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/AwkFilenameFilter.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/io/AwkFilenameFilter.java",
+  "fileType" : "SOURCE",
+  "size" : 4540
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/GlobFilenameFilter.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/io/GlobFilenameFilter.java",
+  "fileType" : "SOURCE",
+  "size" : 4511
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/Perl5FilenameFilter.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/io/Perl5FilenameFilter.java",
+  "fileType" : "SOURCE",
+  "size" : 4491
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/RegexFilenameFilter.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/io/RegexFilenameFilter.java",
+  "fileType" : "SOURCE",
+  "size" : 6283
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/package.html",
+  "@type" : "File",
+  "fileName" : "./src_jo/io/package.html",
+  "fileType" : "APPLICATION",
+  "size" : 250
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/overview.html",
+  "@type" : "File",
+  "fileName" : "./src_jo/overview.html",
+  "fileType" : "APPLICATION",
+  "size" : 507
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/Cache.java",
+  "fileType" : "SOURCE",
+  "size" : 3543
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/CacheFIFO.java",
+  "fileType" : "SOURCE",
+  "size" : 4904
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO2.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/CacheFIFO2.java",
+  "fileType" : "SOURCE",
+  "size" : 5880
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheLRU.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/CacheLRU.java",
+  "fileType" : "SOURCE",
+  "size" : 6010
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheRandom.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/CacheRandom.java",
+  "fileType" : "SOURCE",
+  "size" : 4795
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCache.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/GenericCache.java",
+  "fileType" : "SOURCE",
+  "size" : 5280
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCacheEntry.java",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/GenericCacheEntry.java",
+  "fileType" : "SOURCE",
+  "size" : 3315
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/package.html",
+  "@type" : "File",
+  "fileName" : "./src_jo/util/package.html",
+  "fileType" : "APPLICATION",
+  "size" : 233
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/catalog",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/catalog/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/ourfaces/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/ourfaces/code/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/CodeFormatter.java",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/ourfaces/code/CodeFormatter.java",
+  "fileType" : "SOURCE",
+  "size" : 2863
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/CodeRenderer.java",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/CodeRenderer.java",
+  "fileType" : "SOURCE",
+  "size" : 3993
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/taglib",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/CodeTag.java",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/CodeTag.java",
+  "fileType" : "SOURCE",
+  "size" : 4396
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/meta-inf",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/meta-inf/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/meta-inf/faces-config.xml",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/meta-inf/faces-config.xml",
+  "fileType" : "APPLICATION",
+  "size" : 1124
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/meta-inf/ourfaces.tld",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/code/taglibrary/meta-inf/ourfaces.tld",
+  "fileType" : "APPLICATION",
+  "size" : 4912
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/frames.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/frames.html",
+  "fileType" : "APPLICATION",
+  "size" : 714
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/index.html",
+  "fileType" : "APPLICATION",
+  "size" : 5065
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/ourfaces.css",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/ourfaces.css",
+  "fileType" : "APPLICATION",
+  "size" : 1742
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree-control.css",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree-control.css",
+  "fileType" : "APPLICATION",
+  "size" : 2540
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example1.html",
+  "fileType" : "APPLICATION",
+  "size" : 3638
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example10.html",
+  "fileType" : "APPLICATION",
+  "size" : 2496
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example2.html",
+  "fileType" : "APPLICATION",
+  "size" : 4984
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example3.html",
+  "fileType" : "APPLICATION",
+  "size" : 4615
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example4.html",
+  "fileType" : "APPLICATION",
+  "size" : 5668
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example5.html",
+  "fileType" : "APPLICATION",
+  "size" : 5478
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example6.html",
+  "fileType" : "APPLICATION",
+  "size" : 5187
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example7.html",
+  "fileType" : "APPLICATION",
+  "size" : 4675
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example8.html",
+  "fileType" : "APPLICATION",
+  "size" : 6152
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_example9.html",
+  "fileType" : "APPLICATION",
+  "size" : 3101
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "fileName" : "./src_ourfaces/tree/tree_overview.html",
+  "fileType" : "APPLICATION",
+  "size" : 2010
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/Makefile",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/Makefile",
+  "fileType" : "APPLICATION",
+  "size" : 1198
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/arrayutils.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/arrayutils.c",
+  "fileType" : "SOURCE",
+  "size" : 2936
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/ascii.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/ascii.c",
+  "fileType" : "SOURCE",
+  "size" : 3297
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/bool.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/bool.c",
+  "fileType" : "SOURCE",
+  "size" : 4753
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/char.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/char.c",
+  "fileType" : "SOURCE",
+  "size" : 4804
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/datum.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/datum.c",
+  "fileType" : "SOURCE",
+  "size" : 5687
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/geo_selfuncs.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/geo_selfuncs.c",
+  "fileType" : "SOURCE",
+  "size" : 2371
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/like_match.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/like_match.c",
+  "fileType" : "SOURCE",
+  "size" : 8315
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/lockfuncs.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/lockfuncs.c",
+  "fileType" : "SOURCE",
+  "size" : 4701
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/mac.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/mac.c",
+  "fileType" : "SOURCE",
+  "size" : 6495
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/misc.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/misc.c",
+  "fileType" : "SOURCE",
+  "size" : 1127
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/name.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/name.c",
+  "fileType" : "SOURCE",
+  "size" : 8151
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/not_in.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/not_in.c",
+  "fileType" : "SOURCE",
+  "size" : 3078
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/numutils.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/numutils.c",
+  "fileType" : "SOURCE",
+  "size" : 9485
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/oid.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/oid.c",
+  "fileType" : "SOURCE",
+  "size" : 9473
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pg_locale.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/pg_locale.c",
+  "fileType" : "SOURCE",
+  "size" : 7296
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pgstatfuncs.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/pgstatfuncs.c",
+  "fileType" : "SOURCE",
+  "size" : 8528
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pseudotypes.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/pseudotypes.c",
+  "fileType" : "SOURCE",
+  "size" : 8152
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/quote.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/quote.c",
+  "fileType" : "SOURCE",
+  "size" : 3052
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/sets.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/sets.c",
+  "fileType" : "SOURCE",
+  "size" : 5893
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/tid.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/tid.c",
+  "fileType" : "SOURCE",
+  "size" : 7967
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/version.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/version.c",
+  "fileType" : "SOURCE",
+  "size" : 625
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/xid.c",
+  "@type" : "File",
+  "fileName" : "./src_pgsl/xid.c",
+  "fileType" : "SOURCE",
+  "size" : 3711
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools",
+  "@type" : "File",
+  "fileName" : "./tools/",
+  "fileType" : "DIRECTORY"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/bftest.c",
+  "@type" : "File",
+  "fileName" : "./tools/bftest.c",
+  "fileType" : "SOURCE",
+  "size" : 2576
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/clean-sat.c",
+  "@type" : "File",
+  "fileName" : "./tools/clean-sat.c",
+  "fileType" : "SOURCE",
+  "size" : 778
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/fileone.c",
+  "@type" : "File",
+  "fileName" : "./tools/fileone.c",
+  "fileType" : "SOURCE",
+  "size" : 4072
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/filetwo.c",
+  "@type" : "File",
+  "fileName" : "./tools/filetwo.c",
+  "fileType" : "SOURCE",
+  "size" : 4072
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/gpgsplit.c",
+  "@type" : "File",
+  "fileName" : "./tools/gpgsplit.c",
+  "fileType" : "SOURCE",
+  "size" : 20277
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/mk-tdata.c",
+  "@type" : "File",
+  "fileName" : "./tools/mk-tdata.c",
+  "fileType" : "SOURCE",
+  "size" : 1063
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/mpicalc.c",
+  "@type" : "File",
+  "fileName" : "./tools/mpicalc.c",
+  "fileType" : "SOURCE",
+  "size" : 7848
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/shmtest.c",
+  "@type" : "File",
+  "fileName" : "./tools/shmtest.c",
+  "fileType" : "SOURCE",
+  "size" : 4554
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-fileupload-1.1.jar",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apache-jakartafileupload/releases/421488",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-io-1.1.jar",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jakartacommons-io168162/releases/331118",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/commons-logging.jar",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jakartacommonslogging178918/releases/348905",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/lib/lucene-1.4.3.jar",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apache-jakartalucene/releases/407527",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/GNU%20GENERAL%20PUBLIC%20LICENSE.txt",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/gpl10license177401/releases/348577",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/gpl_license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/LICENSE-APACHE.txt",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/ourfaces187492",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/c_complexbomcustomlicense2015-10-22142107_6919"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/LICENSE-JSF.txt",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/ourfaces187492",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/c_complexbomcustomlicense2015-10-22142107_6919"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/licenses/SUN-PUBLIC-LICENSE.txt",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/ourfaces187492",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/c_complexbomcustomlicense2015-10-22142107_6919"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/AwkFilenameFilter.java",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/olga602462/releases/1746330",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/package.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/c_complexbommainproject_2015-10-22142107_7116",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/overview.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186/releases/380605",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO2.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO2.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO2.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO2.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheFIFO2.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheLRU.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheLRU.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheLRU.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheLRU.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheLRU.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheRandom.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheRandom.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheRandom.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheRandom.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/CacheRandom.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCacheEntry.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCacheEntry.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCacheEntry.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCacheEntry.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/GenericCacheEntry.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/CodeFormatter.java",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186/releases/380605",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/frames.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186/releases/380605",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/index.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/ourfaces.css",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree-control.css",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example1.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example10.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example2.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example3.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example4.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example5.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example6.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example7.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example8.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_example9.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/tree/tree_overview.html",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/tid.c",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/c_complexbomcodeprint2015-10-22142107_7120",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/c_complexbomcustomlicense2015-10-22142107_6919"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/bftest.c",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/securityserver01/releases/292054",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/bftest.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/bftest.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/bftest.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "PARTIAL",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/shmtest.c",
+  "@type" : "File",
+  "artifactOf" : "http://mantella.blackducksoftware.com/p/components/c_complexbomcustomcomponent12015-10-22142107_7119",
+  "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license"
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/AwkFilenameFilter.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "org.apache.oro.io",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apache-jakartajmeter",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/GlobFilenameFilter.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "org.apache.oro.io",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apache-jakartajmeter",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/Perl5FilenameFilter.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "org.apache.oro.io",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apache-jakartajmeter",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/io/RegexFilenameFilter.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "org.apache.oro.io",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apache-jakartajmeter",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_jo/util/Cache.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "org.apache.oro.util",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/CodeFormatter.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "de.java2html.javasource",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/devicedavis189800/releases/854898",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/gpl20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/CodeFormatter.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "de.java2html.converter",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/devicedavis189800/releases/854898",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/gpl20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/CodeFormatter.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "de.java2html.options",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/devicedavis189800/releases/854898",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/gpl20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/CodeRenderer.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "ourfaces.code.renderkit",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apache-jakartajmeter",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/CodeRenderer.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "javax.faces.component",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jsptides213279",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/CodeRenderer.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "javax.faces.context",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jsptides213279",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/renderkit/CodeRenderer.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "javax.faces.el",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jsptides213279",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/CodeTag.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "javax.faces.component",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jsptides213279",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/CodeTag.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "javax.faces.webapp",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jsptides213279",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/CodeTag.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "javax.faces.context",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jsptides213279",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_ourfaces/code/taglibrary/java/ourfaces/code/taglib/CodeTag.java",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "javax.faces.el",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/jsptides213279",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/arrayutils.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/ascii.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/bool.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/char.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/datum.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/geo_selfuncs.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/lockfuncs.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/mac.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/misc.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/name.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/not_in.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/numutils.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/oid.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pg_locale.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pgstatfuncs.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/pseudotypes.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/quote.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/sets.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/tid.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/version.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/src_pgsl/xid.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "postgres.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/files/tools/gpgsplit.c",
+  "@type" : "File",
+  "matchDetail" : {
+    "matchType" : "DEPENDENCY",
+    "content" : "assert.h",
+    "artifactOf" : "http://mantella.blackducksoftware.com/p/components/apachelog4j1459792",
+    "licenseConcluded" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/apache-jakartafileupload/releases/421488",
+  "@type" : "Component",
+  "name" : "Apache Commons FileUpload",
+  "revision" : "1.1",
+  "homepage" : "http://commons.apache.org/proper/commons-fileupload/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "apache-jakartafileupload#421488"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/jakartacommons-io168162/releases/331118",
+  "@type" : "Component",
+  "name" : "Apache Jakarta Commons IO",
+  "revision" : "1.1",
+  "homepage" : "http://jakarta.apache.org/commons/io/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "jakartacommons-io168162#331118"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/jakartacommonslogging178918/releases/348905",
+  "@type" : "Component",
+  "name" : "Apache Jakarta Commons Logging",
+  "revision" : "1.0.4",
+  "homepage" : "http://jakarta.apache.org/commons/logging/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "jakartacommonslogging178918#348905"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/apache-jakartajmeter/releases/407984",
+  "@type" : "Component",
+  "name" : "Apache Jakarta JMeter",
+  "revision" : "2.0.3",
+  "homepage" : "http://jakarta.apache.org/jmeter/index.html",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "apache-jakartajmeter#407984"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/apache-jakartajmeter/releases/407979",
+  "@type" : "Component",
+  "name" : "Apache Jakarta JMeter",
+  "revision" : "2.1.1",
+  "homepage" : "http://jakarta.apache.org/jmeter/index.html",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "apache-jakartajmeter#407979"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/apache-jakartalog4j/releases/401207",
+  "@type" : "Component",
+  "name" : "Apache Log4j",
+  "revision" : "1.0.4",
+  "homepage" : "http://logging.apache.org/log4j/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "apache-jakartalog4j#401207"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/apache-jakartalog4j/releases/401206",
+  "@type" : "Component",
+  "name" : "Apache Log4j",
+  "revision" : "0.9.7",
+  "homepage" : "http://logging.apache.org/log4j/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "apache-jakartalog4j#401206"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/apache-jakartalucene/releases/407527",
+  "@type" : "Component",
+  "name" : "Apache Lucene Java",
+  "revision" : "1.4.3",
+  "homepage" : "http://jakarta.apache.org/lucene/docs/index.html",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "apache-jakartalucene#407527"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541",
+  "@type" : "Component",
+  "name" : "Bit 5 Blog",
+  "homepage" : "http://sourceforge.net/projects/bit5blog/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "bit5blog9541"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065637",
+  "@type" : "Component",
+  "name" : "Bit5Blog",
+  "revision" : "Bit 5 Blog 7.0",
+  "homepage" : "http://sourceforge.net/projects/bit5blog/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "bit5blog9541#1065637"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/bit5blog9541/releases/1065638",
+  "@type" : "Component",
+  "name" : "Bit5Blog",
+  "revision" : "Bit 5 Blog 6.0",
+  "homepage" : "http://sourceforge.net/projects/bit5blog/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "bit5blog9541#1065638"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/c_complexbomcodeprint2015-10-22142107_7120",
+  "@type" : "Component",
+  "name" : "ComplexBom CodePrint2015-10-22 14:21:07",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/c_complexbomcustomlicense2015-10-22142107_6919",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_complexbomcodeprint2015-10-22142107_7120"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/c_complexbomcustomcomponent12015-10-22142107_7119",
+  "@type" : "Component",
+  "name" : "ComplexBom Custom Component 12015-10-22 14:21:07",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_complexbomcustomcomponent12015-10-22142107_7119"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/components/c_455d3b21-cfbb-4fea-aaca-b3f593934208",
+  "@type" : "Component",
+  "name" : "ComplexBom LocalComponent1",
+  "homepage" : "http://cnn.com",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_455d3b21-cfbb-4fea-aaca-b3f593934208"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/components/c_d4f60ff5-c33a-4552-8c8b-aab89cdfb9b7",
+  "@type" : "Component",
+  "name" : "ComplexBom LocalComponent2",
+  "homepage" : "http://cnn.com",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_d4f60ff5-c33a-4552-8c8b-aab89cdfb9b7"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/components/c_10e22070-7cdb-4e60-831c-2f0911ef156a",
+  "@type" : "Component",
+  "name" : "ComplexBom SubProject1-LocalComponent3",
+  "homepage" : "http://google.com/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/mysqlcommercial",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_10e22070-7cdb-4e60-831c-2f0911ef156a"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/c_complexbomsubproject1_2015-10-22142107_7117",
+  "@type" : "Component",
+  "name" : "ComplexBomSubProject1_2015-10-22 14:21:07",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Animal_Rights_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_complexbomsubproject1_2015-10-22142107_7117"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/c_complexbomsubproject2_2015-10-22142107_7118",
+  "@type" : "Component",
+  "name" : "ComplexBomSubProject2_2015-10-22 14:21:07",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_complexbomsubproject2_2015-10-22142107_7118"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/devicedavis189800/releases/854898",
+  "@type" : "Component",
+  "name" : "Device::Davis",
+  "revision" : "1.2.3",
+  "homepage" : "http://search.cpan.org/~stsander/Device-Davis/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/gpl20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "devicedavis189800#854898"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/facebookchatapi2796477/releases/4931650",
+  "@type" : "Component",
+  "name" : "facebook-chat-api",
+  "revision" : "0.2.6",
+  "homepage" : "https://www.npmjs.org/package/facebook-chat-api",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "facebookchatapi2796477#4931650"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/gpl10license177401/releases/348577",
+  "@type" : "Component",
+  "name" : "GNU General Public License v1.0 or later",
+  "revision" : "1.0",
+  "homepage" : "http://www.opensource.org/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/gpl_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "gpl10license177401#348577"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/jekyllfixtitlecase2821390/releases/5033331",
+  "@type" : "Component",
+  "name" : "jekyll-fix-titlecase",
+  "revision" : "1.0.0",
+  "homepage" : "https://www.npmjs.org/package/jekyll-fix-titlecase",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "jekyllfixtitlecase2821390#5033331"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/jqueryorgchart2840711/releases/5162891",
+  "@type" : "Component",
+  "name" : "jquery-orgchart",
+  "revision" : "master-20150914",
+  "homepage" : "http://github.com/caprica/jquery-orgchart/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/creativecommonsattributionshare-alike30license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "jqueryorgchart2840711#5162891"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/jsptides213279/releases/486361",
+  "@type" : "Component",
+  "name" : "JSP Tides",
+  "revision" : "0.1.0",
+  "homepage" : "http://sourceforge.net/projects/tides/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/GPL30",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "jsptides213279#486361"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/kietomcatintegration1917785/releases/3461979",
+  "@type" : "Component",
+  "name" : "KIE Tomcat integration",
+  "revision" : "6.0.0.Final",
+  "homepage" : "http://www.jboss.org/drools/kie-parent-with-dependencies/kie-wb-distributions/kie-tomcat-integration",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "kietomcatintegration1917785#3461979"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/components/c_d2828c4d-1bf5-44ef-ab6e-c2772bd0796b",
+  "@type" : "Component",
+  "name" : "Local Component under Clonned License with Custom Obligations2015-10-22 14:21:07",
+  "homepage" : "http://cnn.com/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/c_albumlicenseclonedforcomplexbomproject2015-10-22142107_6917",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_d2828c4d-1bf5-44ef-ab6e-c2772bd0796b"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/projects/c_complexbommainproject_2015-10-22142107_7116/components/c_d163ba3c-67c7-425c-96ed-306bbca3c3af",
+  "@type" : "Component",
+  "name" : "Local Component under Custom License with Custom Obligations2015-10-22 14:21:07",
+  "homepage" : "http://bbc.com/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/c_globallicenseforcomplexbom2015-10-22142107_6918",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_d163ba3c-67c7-425c-96ed-306bbca3c3af"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/mdasthighlightjs2841295/releases/5167851",
+  "@type" : "Component",
+  "name" : "mdast-highlight.js",
+  "revision" : "1.2.0",
+  "homepage" : "https://www.npmjs.org/package/mdast-highlight.js",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "mdasthighlightjs2841295#5167851"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/nutzintegrationjsr3032796808/releases/4864425",
+  "@type" : "Component",
+  "name" : "nutz-integration-jsr303",
+  "revision" : "1.b.52",
+  "homepage" : "http://repo.maven.apache.org/maven2//org/nutz/nutz-integration-jsr303/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "nutzintegrationjsr3032796808#4864425"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/olga602462/releases/1746330",
+  "@type" : "Component",
+  "name" : "olga",
+  "revision" : "3.0",
+  "homepage" : "http://code.google.com/p/olga/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/GPL30",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "olga602462#1746330"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/ourfaces187492",
+  "@type" : "Component",
+  "name" : "OurFaces",
+  "homepage" : "https://ourfaces.dev.java.net/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/c_complexbomcustomlicense2015-10-22142107_6919",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "ourfaces187492"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186/releases/380605",
+  "@type" : "Component",
+  "name" : "Perl Application Server",
+  "revision" : "3.0.16",
+  "homepage" : "http://sourceforge.net/projects/pas/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "perlapplicationserver26186#380605"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186",
+  "@type" : "Component",
+  "name" : "Perl Application Server",
+  "homepage" : "http://sourceforge.net/projects/pas/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "perlapplicationserver26186"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/perlapplicationserver26186/releases/380604",
+  "@type" : "Component",
+  "name" : "Perl Application Server",
+  "revision" : "pas-3.0.18",
+  "homepage" : "http://sourceforge.net/projects/pas/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "perlapplicationserver26186#380604"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/qoopidodemand2841499/releases/5281153",
+  "@type" : "Component",
+  "name" : "qoopido.demand",
+  "revision" : "2.0.5",
+  "homepage" : "https://www.npmjs.org/package/qoopido.demand",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "qoopidodemand2841499#5281153"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/securityserver01/releases/292054",
+  "@type" : "Component",
+  "name" : "Security Server",
+  "revision" : "0.1",
+  "homepage" : "http://developer.berlios.de/projects/secser/",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "securityserver01#292054"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/swaggerhapi2840729/releases/5164714",
+  "@type" : "Component",
+  "name" : "swagger-hapi",
+  "revision" : "0.1.0",
+  "homepage" : "https://www.npmjs.org/package/swagger-hapi",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "swaggerhapi2840729#5164714"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/thumbpreview2810415/releases/4935864",
+  "@type" : "Component",
+  "name" : "thumb-preview",
+  "revision" : "1.0.0",
+  "homepage" : "https://www.npmjs.org/package/thumb-preview",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/isclicense",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "thumbpreview2810415#4935864"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/twitterjerkdetector2841173/releases/5167219",
+  "@type" : "Component",
+  "name" : "twitterjerkdetector",
+  "revision" : "2.0.1",
+  "homepage" : "https://www.npmjs.org/package/twitterjerkdetector",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "twitterjerkdetector2841173#5167219"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/twitterjerkdetector2841173/releases/5167224",
+  "@type" : "Component",
+  "name" : "twitterjerkdetector",
+  "revision" : "2.0.0",
+  "homepage" : "https://www.npmjs.org/package/twitterjerkdetector",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "twitterjerkdetector2841173#5167224"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/components/tkernel2840713/releases/5162911",
+  "@type" : "Component",
+  "name" : "µT Kernel",
+  "revision" : "2.00.00",
+  "homepage" : "http://www.t-engine.org/what-is-t-kernel/mt-kernel",
+  "licence" : "http://mantella.blackducksoftware.com/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "tkernel2840713#5162911"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/acme_proprietary",
+  "@type" : "License",
+  "spdx:name" : "[template] Basic Proprietary Commercial License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "acme_proprietary"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/nonosproductcomponent",
+  "@type" : "License",
+  "spdx:name" : "[template] Non-Open Source Product Component",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "nonosproductcomponent"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/c_albumlicenseclonedforcomplexbomproject2015-10-22142107_6917",
+  "@type" : "License",
+  "spdx:name" : "Album License Cloned for ComplexBom project2015-10-22 14:21:07",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_albumlicenseclonedforcomplexbomproject2015-10-22142107_6917"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/Animal_Rights_License",
+  "@type" : "License",
+  "spdx:name" : "Animal Rights License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "Animal_Rights_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/Apache20",
+  "@type" : "License",
+  "spdx:name" : "Apache License 2.0",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "Apache20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/bittorrentopensource11license",
+  "@type" : "License",
+  "spdx:name" : "BitTorrent Open Source License v1.1",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "bittorrentopensource11license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/c_complexbomcustomlicense2015-10-22142107_6919",
+  "@type" : "License",
+  "spdx:name" : "ComplexBom CustomLicense2015-10-22 14:21:07",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_complexbomcustomlicense2015-10-22142107_6919"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/creativecommonsattributionshare-alike30license",
+  "@type" : "License",
+  "spdx:name" : "Creative Commons Attribution Share Alike 3.0",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "creativecommonsattributionshare-alike30license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/c_globallicenseforcomplexbom2015-10-22142107_6918",
+  "@type" : "License",
+  "spdx:name" : "Global License for ComplexBom2015-10-22 14:21:07",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "c_globallicenseforcomplexbom2015-10-22142107_6918"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/gpl_license",
+  "@type" : "License",
+  "spdx:name" : "GNU General Public License v1.0 or later",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "gpl_license"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/gpl20",
+  "@type" : "License",
+  "spdx:name" : "GNU General Public License v2.0 or later",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "gpl20"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/GPL30",
+  "@type" : "License",
+  "spdx:name" : "GNU General Public License v3.0 or later",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "GPL30"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/isclicense",
+  "@type" : "License",
+  "spdx:name" : "ISC License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "isclicense"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/mit2",
+  "@type" : "License",
+  "spdx:name" : "MIT License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "mit2"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/mysqlcommercial",
+  "@type" : "License",
+  "spdx:name" : "MySQL Commercial License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "mysqlcommercial"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/PDL_License",
+  "@type" : "License",
+  "spdx:name" : "PDL License (Perl Artistic License +)",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "PDL_License"
+  }
+}, {
+  "@id" : "http://mantella.blackducksoftware.com/p/licenses/unspecified",
+  "@type" : "License",
+  "spdx:name" : "Unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "BD-Suite",
+    "externalId" : "unspecified"
+  }
+} ]

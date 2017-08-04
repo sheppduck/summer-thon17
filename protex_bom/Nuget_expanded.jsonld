@@ -1,0 +1,4690 @@
+[ {
+  "@id" : "http://qa-px07.dc1.lan:80/p/projects/c_nuget_expanded_kb25_6462#SPDXRef-DOCUMENT",
+  "@type" : "BillOfMaterials",
+  "specVersion" : "1.1.0",
+  "spdx:name" : "nuget_expanded_KB25",
+  "creationInfo" : {
+    "spdx:creator" : "Tool: Boot",
+    "spdx:created" : "2017-06-28T14:28:43.000Z"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/projects/c_nuget_expanded_kb25_6462",
+  "@type" : "Project"
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/arichfullfeaturedwpfslmvvmframework1721222/releases/3812898",
+  "@type" : "Component",
+  "name" : "A Rich Full Featured WPF/SL MVVM Framework",
+  "revision" : "2.0.1",
+  "homepage" : "http://www.nuget.org/packages/Cinch",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "arichfullfeaturedwpfslmvvmframework1721222#3812898"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/arichfullfeaturedwpfslmvvmframework1721222/releases/3812896",
+  "@type" : "Component",
+  "name" : "A Rich Full Featured WPF/SL MVVM Framework",
+  "revision" : "2.0.0",
+  "homepage" : "http://www.nuget.org/packages/Cinch",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "arichfullfeaturedwpfslmvvmframework1721222#3812896"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/abbscadadata1966096/releases/3713514",
+  "@type" : "Component",
+  "name" : "ABB.Scada.Data",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/ABB.Scada.Data",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "abbscadadata1966096#3713514"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/abbscadadata1966096/releases/3757313",
+  "@type" : "Component",
+  "name" : "ABB.Scada.Data",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/ABB.Scada.Data",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "abbscadadata1966096#3757313"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/abcpdfnetgeckoruntime1966200/releases/3729307",
+  "@type" : "Component",
+  "name" : "ABCpdf .NET Gecko Runtime",
+  "revision" : "9.1.0.2",
+  "homepage" : "http://www.nuget.org/packages/ABCpdf.ABCGecko",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "abcpdfnetgeckoruntime1966200#3729307"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/adventureworkslt2071807/releases/4307982",
+  "@type" : "Component",
+  "name" : "AdventureWorksLT",
+  "revision" : "1.1.0",
+  "homepage" : "http://www.nuget.org/packages/AdventureWorksLT",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "adventureworkslt2071807#4307982"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ajaxcontroltoolkit573094/releases/3528484",
+  "@type" : "Component",
+  "name" : "AjaxControlToolkit",
+  "revision" : "7.0607",
+  "homepage" : "http://www.nuget.org/packages/AjaxControlToolkit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ajaxcontroltoolkit573094#3528484"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ajaxcontroltoolkit101030101932068/releases/3487276",
+  "@type" : "Component",
+  "name" : "AjaxControlToolkit-1.0.10301.0",
+  "revision" : "1.0.10301.0",
+  "homepage" : "http://www.nuget.org/packages/AjaxControlToolkit-1.0.10301.0",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ajaxcontroltoolkit101030101932068#3487276"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/alumnet2826014/releases/5060370",
+  "@type" : "Component",
+  "name" : "Alum.Net",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/Alum.Net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "alumnet2826014#5060370"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/anunofficialpackagingofmicrosoftsenterpriselibrary51957927/releases/3683651",
+  "@type" : "Component",
+  "name" : "An unofficial packaging of Microsoft's Enterprise Library 5.",
+  "revision" : "0.0.1",
+  "homepage" : "http://www.nuget.org/packages/XAct.EntityLibrary5",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "anunofficialpackagingofmicrosoftsenterpriselibrary51957927#3683651"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/anthemautosuggest1963490/releases/3707233",
+  "@type" : "Component",
+  "name" : "Anthem.AutoSuggest",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Anthem.AutoSuggest",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "anthemautosuggest1963490#3707233"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/antlr1991555/releases/3966128",
+  "@type" : "Component",
+  "name" : "Antlr",
+  "revision" : "3.1.3.42154",
+  "homepage" : "http://www.nuget.org/packages/Antlr",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "antlr1991555#3966128"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/antlr1991555/releases/3966127",
+  "@type" : "Component",
+  "name" : "Antlr",
+  "revision" : "3.1.1",
+  "homepage" : "http://www.nuget.org/packages/Antlr",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "antlr1991555#3966127"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/apmputilitiesbarcode2063863/releases/4267979",
+  "@type" : "Component",
+  "name" : "APMP.Utilities.BarCode",
+  "revision" : "0.0.4.101",
+  "homepage" : "http://www.nuget.org/packages/APMP.Utilities.BarCode",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "apmputilitiesbarcode2063863#4267979"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/apnssharpdeprecated1933335/releases/3504028",
+  "@type" : "Component",
+  "name" : "APNS Sharp - Deprecated",
+  "revision" : "1.0.4.1",
+  "homepage" : "http://www.nuget.org/packages/apns-sharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "apnssharpdeprecated1933335#3504028"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/applimitcloudcomputingsharpbox1931217/releases/3479089",
+  "@type" : "Component",
+  "name" : "AppLimit.CloudComputing.SharpBox",
+  "revision" : "1.1.2.517",
+  "homepage" : "http://www.nuget.org/packages/AppLimit.CloudComputing.SharpBox",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "applimitcloudcomputingsharpbox1931217#3479089"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/artemxmlproviders1932762/releases/3499028",
+  "@type" : "Component",
+  "name" : "Artem.XmlProviders",
+  "revision" : "2.5",
+  "homepage" : "http://www.nuget.org/packages/Artem.XmlProviders",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "artemxmlproviders1932762#3499028"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/aspnetpager655236/releases/1119806",
+  "@type" : "Component",
+  "name" : "AspNetPager",
+  "revision" : "paging control 7.3.2",
+  "homepage" : "http://aspnetpager.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "aspnetpager655236#1119806"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/asposecellsfornet1931110/releases/3484401",
+  "@type" : "Component",
+  "name" : "Aspose.Cells for .NET",
+  "revision" : "7.4.0",
+  "homepage" : "http://www.nuget.org/packages/Aspose.Cells",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "asposecellsfornet1931110#3484401"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/asyncwcflib1962821/releases/3714798",
+  "@type" : "Component",
+  "name" : "AsyncWcfLib",
+  "revision" : "3.0.1",
+  "homepage" : "http://www.nuget.org/packages/AsyncWcfLib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "asyncwcflib1962821#3714798"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/autofac526535/releases/1746184",
+  "@type" : "Component",
+  "name" : "autofac",
+  "revision" : "2.5.1.827",
+  "homepage" : "http://code.google.com/p/autofac/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "autofac526535#1746184"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/autofac526535/releases/1626403",
+  "@type" : "Component",
+  "name" : "autofac",
+  "revision" : "2.4.2.696",
+  "homepage" : "http://code.google.com/p/autofac/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "autofac526535#1626403"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/automapper1404503/releases/3311216",
+  "@type" : "Component",
+  "name" : "AutoMapper",
+  "revision" : "3.0.0",
+  "homepage" : "http://github.com/AutoMapper/AutoMapper/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "automapper1404503#3311216"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/automapper1404503/releases/1995262",
+  "@type" : "Component",
+  "name" : "AutoMapper",
+  "revision" : "2.0.0",
+  "homepage" : "http://github.com/AutoMapper/AutoMapper/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "automapper1404503#1995262"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/automatonymous1445000/releases/3313944",
+  "@type" : "Component",
+  "name" : "Automatonymous",
+  "revision" : "1.0.1",
+  "homepage" : "http://github.com/MassTransit/Automatonymous/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "automatonymous1445000#3313944"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/axiom3drenderingengine592293/releases/3777135",
+  "@type" : "Component",
+  "name" : "Axiom 3D Rendering Engine",
+  "revision" : "0.8.0.0",
+  "homepage" : "http://www.nuget.org/packages/Axiom",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "axiom3drenderingengine592293#3777135"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/axiom3drenderingengine592293/releases/2265759",
+  "@type" : "Component",
+  "name" : "Axiom 3D Rendering Engine",
+  "revision" : "0.8.3376.12322",
+  "homepage" : "http://axiom.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "axiom3drenderingengine592293#2265759"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/axiom3drenderingengine592293/releases/3777136",
+  "@type" : "Component",
+  "name" : "Axiom 3D Rendering Engine",
+  "revision" : "0.8.3101.12095",
+  "homepage" : "http://www.nuget.org/packages/Axiom",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "axiom3drenderingengine592293#3777136"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/axiompluginscgprogrammanager1966288/releases/3715305",
+  "@type" : "Component",
+  "name" : "Axiom.Plugins.CgProgramManager",
+  "revision" : "0.8.3101.12095",
+  "homepage" : "http://www.nuget.org/packages/Axiom.Plugins.CgProgramManager",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "axiompluginscgprogrammanager1966288#3715305"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/axiompluginsdevilcodecs1971056/releases/3745447",
+  "@type" : "Component",
+  "name" : "Axiom.Plugins.DevILCodecs",
+  "revision" : "0.8.3101.12095",
+  "homepage" : "http://www.nuget.org/packages/Axiom.Plugins.DevILCodecs",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "axiompluginsdevilcodecs1971056#3745447"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/baretail1933651/releases/3504959",
+  "@type" : "Component",
+  "name" : "BareTail",
+  "revision" : "3.50",
+  "homepage" : "http://www.nuget.org/packages/baretail",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unknown",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "baretail1933651#3504959"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/businessframework654937/releases/3602811",
+  "@type" : "Component",
+  "name" : "BFsharp",
+  "revision" : "0.4.2",
+  "homepage" : "http://www.nuget.org/packages/BFsharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "businessframework654937#3602811"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/businessframework654937/releases/3602813",
+  "@type" : "Component",
+  "name" : "BFsharp",
+  "revision" : "0.4.1",
+  "homepage" : "http://www.nuget.org/packages/BFsharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "businessframework654937#3602813"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/bifrostnewtonsoftjsonnetsupport1982689/releases/4398852",
+  "@type" : "Component",
+  "name" : "Bifrost Newtonsoft JSON.net support",
+  "revision" : "1.0.0.10",
+  "homepage" : "http://github.com/dolittle/Bifrost/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "bifrostnewtonsoftjsonnetsupport1982689#4398852"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/bootstrapperwindowsimagingcomponent1972242/releases/3759513",
+  "@type" : "Component",
+  "name" : "Bootstrapper.WindowsImagingComponent",
+  "revision" : "1.0.0.1",
+  "homepage" : "http://www.nuget.org/packages/Bootstrapper.WindowsImagingComponent",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "bootstrapperwindowsimagingcomponent1972242#3759513"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/bottlestools1932282/releases/3497315",
+  "@type" : "Component",
+  "name" : "Bottles.Tools",
+  "revision" : "0.9.0.22",
+  "homepage" : "http://www.nuget.org/packages/Bottles.Tools",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "bottlestools1932282#3497315"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/brechamobex1957794/releases/3682841",
+  "@type" : "Component",
+  "name" : "Brecham.Obex",
+  "revision" : "1.7",
+  "homepage" : "http://www.nuget.org/packages/Brecham.Obex",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "brechamobex1957794#3682841"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/brutilegistilinglibrary1132492/releases/3484183",
+  "@type" : "Component",
+  "name" : "BruTile",
+  "revision" : "0.8.4",
+  "homepage" : "http://www.nuget.org/packages/BruTile",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "brutilegistilinglibrary1132492#3484183"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/buildindicatorforbuildserver1963225/releases/3715779",
+  "@type" : "Component",
+  "name" : "Build Indicator for Build Server",
+  "revision" : "0.1.0.0",
+  "homepage" : "http://www.nuget.org/packages/BuildLight",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "buildindicatorforbuildserver1963225#3715779"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/businessframework654937/releases/3877494",
+  "@type" : "Component",
+  "name" : "BusinessFramework",
+  "revision" : "0.2",
+  "homepage" : "http://www.nuget.org/packages/BusinessFramework",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "businessframework654937#3877494"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/cachecowclientmemcachedcachestore121968559/releases/3724723",
+  "@type" : "Component",
+  "name" : "CacheCow.Client.MemcachedCacheStore12",
+  "revision" : "0.4.3",
+  "homepage" : "http://www.nuget.org/packages/CacheCow.Client.MemcachedCacheStore12",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "cachecowclientmemcachedcachestore121968559#3724723"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/caliburnmicro1930594/releases/3474430",
+  "@type" : "Component",
+  "name" : "Caliburn.Micro",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Caliburn.Micro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "caliburnmicro1930594#3474430"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/caliburnmicro1930594/releases/3472634",
+  "@type" : "Component",
+  "name" : "Caliburn.Micro",
+  "revision" : "1.3.0",
+  "homepage" : "http://www.nuget.org/packages/Caliburn.Micro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "caliburnmicro1930594#3472634"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/caliburnmicro1930594/releases/3475315",
+  "@type" : "Component",
+  "name" : "Caliburn.Micro",
+  "revision" : "1.4",
+  "homepage" : "http://www.nuget.org/packages/Caliburn.Micro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "caliburnmicro1930594#3475315"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/caliburnmicro1930594/releases/3473564",
+  "@type" : "Component",
+  "name" : "Caliburn.Micro",
+  "revision" : "1.5.0",
+  "homepage" : "http://www.nuget.org/packages/Caliburn.Micro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "caliburnmicro1930594#3473564"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/castleproject29930/releases/3950863",
+  "@type" : "Component",
+  "name" : "Castle.Core",
+  "revision" : "2.5.1",
+  "homepage" : "http://github.com/castleproject/Castle.Core/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "castleproject29930#3950863"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/castleproject29930/releases/3950862",
+  "@type" : "Component",
+  "name" : "Castle.Core",
+  "revision" : "emailcomponent-1.1.0",
+  "homepage" : "http://github.com/castleproject/Castle.Core/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "castleproject29930#3950862"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/castledynamicproxyobsolete1930698/releases/3472842",
+  "@type" : "Component",
+  "name" : "Castle.DynamicProxy (obsolete)",
+  "revision" : "2.1.0",
+  "homepage" : "http://www.nuget.org/packages/Castle.DynamicProxy",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "castledynamicproxyobsolete1930698#3472842"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/castlenvelocity1931654/releases/3966211",
+  "@type" : "Component",
+  "name" : "Castle.NVelocity",
+  "revision" : "1.0.3",
+  "homepage" : "http://www.nuget.org/packages/NVelocity",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "castlenvelocity1931654#3966211"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/catpicopensocialcontainer1971683/releases/3752124",
+  "@type" : "Component",
+  "name" : "Catpic: OpenSocial Container",
+  "revision" : "0.7.7",
+  "homepage" : "http://www.nuget.org/packages/Catpic",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "catpicopensocialcontainer1971683#3752124"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/cbthookandwindowshook2100176/releases/4446792",
+  "@type" : "Component",
+  "name" : "CBTHook and WindowsHook",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/CBTHookandWindowsHook",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "cbthookandwindowshook2100176#4446792"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/chocolatey1356253/releases/3863520",
+  "@type" : "Component",
+  "name" : "Chocolatey",
+  "revision" : "0.9.8.14",
+  "homepage" : "http://www.nuget.org/packages/chocolatey",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "chocolatey1356253#3863520"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/chocolatey1356253/releases/3992024",
+  "@type" : "Component",
+  "name" : "chocolatey",
+  "revision" : "0.9.8.24",
+  "homepage" : "http://github.com/chocolatey/chocolatey/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "chocolatey1356253#3992024"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/citrixnetscalersdk1933541/releases/3506167",
+  "@type" : "Component",
+  "name" : "CitrixNetScalerSDK",
+  "revision" : "9.2",
+  "homepage" : "http://www.nuget.org/packages/CitrixNetScalerSDK",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "citrixnetscalersdk1933541#3506167"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/clientdependency1930783/releases/3475561",
+  "@type" : "Component",
+  "name" : "ClientDependency",
+  "revision" : "1.2",
+  "homepage" : "http://www.nuget.org/packages/ClientDependency",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "clientdependency1930783#3475561"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/cocossharpforwindowsusingopengl2097306/releases/4435580",
+  "@type" : "Component",
+  "name" : "CocosSharp for Windows using OpenGL",
+  "revision" : "1.1.0",
+  "homepage" : "http://www.nuget.org/packages/CocosSharp.WindowsGL",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "cocossharpforwindowsusingopengl2097306#4435580"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/codeforcelibbarcodes1932937/releases/3501538",
+  "@type" : "Component",
+  "name" : "CodeForceLib.Barcodes",
+  "revision" : "2.0",
+  "homepage" : "http://www.nuget.org/packages/CodeForceLib.Barcodes",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "codeforcelibbarcodes1932937#3501538"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/codeforcelibpaypal1932676/releases/3498310",
+  "@type" : "Component",
+  "name" : "CodeForceLib.Paypal",
+  "revision" : "2.0",
+  "homepage" : "http://www.nuget.org/packages/CodeForceLib.Paypal",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "codeforcelibpaypal1932676#3498310"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/commonlogging1412923/releases/3528219",
+  "@type" : "Component",
+  "name" : "Common.Logging",
+  "revision" : "1.2.0",
+  "homepage" : "http://www.nuget.org/packages/Common.Logging",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "commonlogging1412923#3528219"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/commonloggingentlib1931999/releases/3487301",
+  "@type" : "Component",
+  "name" : "Common.Logging.EntLib",
+  "revision" : "1.2.0",
+  "homepage" : "http://www.nuget.org/packages/Common.Logging.EntLib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "commonloggingentlib1931999#3487301"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/commonloggingnlog1931560/releases/3483217",
+  "@type" : "Component",
+  "name" : "Common.Logging.NLog",
+  "revision" : "1.2.0",
+  "homepage" : "http://www.nuget.org/packages/Common.Logging.NLog",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "commonloggingnlog1931560#3483217"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/commonservicelocator574427/releases/1010444",
+  "@type" : "Component",
+  "name" : "CommonServiceLocator",
+  "revision" : "Common Service Locator 1.0",
+  "homepage" : "http://commonservicelocator.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "commonservicelocator574427#1010444"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/compositec1cms2400017/releases/4561991",
+  "@type" : "Component",
+  "name" : "Composite C1 CMS",
+  "revision" : "3.1",
+  "homepage" : "http://www.nuget.org/packages/CompositeC1",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "compositec1cms2400017#4561991"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/compositec1cmscorelibraries2137926/releases/5578219",
+  "@type" : "Component",
+  "name" : "Composite C1 CMS Core Libraries",
+  "revision" : "5.0.0",
+  "homepage" : "http://www.nuget.org/packages/CompositeC1.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "compositec1cmscorelibraries2137926#5578219"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/concentraframework2100565/releases/4449796",
+  "@type" : "Component",
+  "name" : "ConcentraFramework",
+  "revision" : "7.0.21",
+  "homepage" : "http://www.nuget.org/packages/ConcentraFramework",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "concentraframework2100565#4449796"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/connectioninfolibraryforsqlserver20082795976/releases/4852832",
+  "@type" : "Component",
+  "name" : "ConnectionInfo Library for SQL Server 2008",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.SqlServer.ConnectionInfo.dll",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "connectioninfolibraryforsqlserver20082795976#4852832"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/console21991762/releases/3969090",
+  "@type" : "Component",
+  "name" : "Console2",
+  "revision" : "2.0",
+  "homepage" : "http://www.nuget.org/packages/Console2",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "console21991762#3969090"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/createsenddotnet936070/releases/3863797",
+  "@type" : "Component",
+  "name" : "createsend-dotnet",
+  "revision" : "1.0.3",
+  "homepage" : "http://www.nuget.org/packages/campaignmonitor-api",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "createsenddotnet936070#3863797"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dbnettime1966508/releases/3746242",
+  "@type" : "Component",
+  "name" : "DbNetTime",
+  "revision" : "4.3.4654",
+  "homepage" : "http://www.nuget.org/packages/DbNetTime",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dbnettime1966508#3746242"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/deduplicatelibrary1977999/releases/3873357",
+  "@type" : "Component",
+  "name" : "DeduplicateLibrary",
+  "revision" : "1.1.3",
+  "homepage" : "http://www.nuget.org/packages/DeduplicateLibrary",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "deduplicatelibrary1977999#3873357"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/devexpressagcontrols1958368/releases/3687859",
+  "@type" : "Component",
+  "name" : "DevExpress.AgControls",
+  "revision" : "8.2.5.0",
+  "homepage" : "http://www.nuget.org/packages/DevExpress.AgControls",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "devexpressagcontrols1958368#3687859"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/devilredist1969901/releases/3733788",
+  "@type" : "Component",
+  "name" : "DevIL Redist",
+  "revision" : "1.7.8",
+  "homepage" : "http://www.nuget.org/packages/DevIL.redist",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "devilredist1969901#3733788"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dialectsoftwarellcwebclientcomponents1963946/releases/3708247",
+  "@type" : "Component",
+  "name" : "Dialect Software LLC Web Client Components",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/DialectSoftware.Web",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/creativecommonsattributionshare-alike30license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dialectsoftwarellcwebclientcomponents1963946#3708247"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dianoga2051876/releases/4209398",
+  "@type" : "Component",
+  "name" : "Dianoga",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Dianoga",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dianoga2051876#4209398"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/diffiehellman1982693/releases/3877227",
+  "@type" : "Component",
+  "name" : "DiffieHellman",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/DiffieHellman",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "diffiehellman1982693#3877227"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/disruptornet1408229/releases/1998443",
+  "@type" : "Component",
+  "name" : "Disruptor-net",
+  "revision" : "1.1.0",
+  "homepage" : "http://github.com/odeheurles/Disruptor-net/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "disruptornet1408229#1998443"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/documentformatopenxml1930674/releases/3475322",
+  "@type" : "Component",
+  "name" : "DocumentFormat.OpenXml",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/DocumentFormat.OpenXml",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "documentformatopenxml1930674#3475322"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dojotoolkitkitchensinkedition184074/releases/1856228",
+  "@type" : "Component",
+  "name" : "Dojo Toolkit",
+  "revision" : "1.7.2",
+  "homepage" : "http://dojotoolkit.org/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/academicfree21_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dojotoolkitkitchensinkedition184074#1856228"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dotlessminification1932863/releases/3500152",
+  "@type" : "Component",
+  "name" : "DotLessMinification",
+  "revision" : "0.42.1",
+  "homepage" : "http://www.nuget.org/packages/DotLessMinification",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dotlessminification1932863#3500152"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dotnetengine2778744/releases/4643365",
+  "@type" : "Component",
+  "name" : "DotNetEngine",
+  "revision" : "13.1.25",
+  "homepage" : "http://www.nuget.org/packages/DotNetEngine",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dotnetengine2778744#4643365"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dotnetrdf662731/releases/3791301",
+  "@type" : "Component",
+  "name" : "dotNetRDF",
+  "revision" : "0.4.1",
+  "homepage" : "http://www.nuget.org/packages/dotNetRDF",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dotnetrdf662731#3791301"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dotnetzip575005/releases/3528452",
+  "@type" : "Component",
+  "name" : "DotNetZip",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/DotNetZip",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dotnetzip575005#3528452"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dotnetzip575005/releases/3528454",
+  "@type" : "Component",
+  "name" : "DotNetZip",
+  "revision" : "1.9.1.8",
+  "homepage" : "http://www.nuget.org/packages/DotNetZip",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dotnetzip575005#3528454"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dotnetzip575005/releases/3528453",
+  "@type" : "Component",
+  "name" : "DotNetZip",
+  "revision" : "1.9",
+  "homepage" : "http://www.nuget.org/packages/DotNetZip",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dotnetzip575005#3528453"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/droolsnet2037822/releases/4161434",
+  "@type" : "Component",
+  "name" : "Drools.Net",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/Drools.Net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "droolsnet2037822#4161434"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dropkick705373/releases/3876975",
+  "@type" : "Component",
+  "name" : "dropkick",
+  "revision" : "0.3.1.0",
+  "homepage" : "http://www.nuget.org/packages/dropkick",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dropkick705373#3876975"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/dynamicimageextensionscontentawareresizing1957426/releases/3685295",
+  "@type" : "Component",
+  "name" : "DynamicImage.Extensions.ContentAwareResizing",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/DynamicImage.Extensions.ContentAwareResizing",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "dynamicimageextensionscontentawareresizing1957426#3685295"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ecm7migrator2400420/releases/4564613",
+  "@type" : "Component",
+  "name" : "ECM7.Migrator",
+  "revision" : "2.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/ECM7Migrator",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ecm7migrator2400420#4564613"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/elevate643319/releases/3969235",
+  "@type" : "Component",
+  "name" : "elevate",
+  "revision" : "0.1.0",
+  "homepage" : "http://www.nuget.org/packages/elevate",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "elevate643319#3969235"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/elmah530759/releases/1756124",
+  "@type" : "Component",
+  "name" : "elmah",
+  "revision" : "1.2",
+  "homepage" : "http://code.google.com/p/elmah/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "elmah530759#1756124"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/elmah530759/releases/1665195",
+  "@type" : "Component",
+  "name" : "elmah",
+  "revision" : "1.1",
+  "homepage" : "http://code.google.com/p/elmah/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "elmah530759#1665195"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/enterpriselibrary4dataaccessapplicationblock1932847/releases/3499980",
+  "@type" : "Component",
+  "name" : "Enterprise Library 4 Data Access Application Block",
+  "revision" : "4.1.0",
+  "homepage" : "http://www.nuget.org/packages/EntLib4.DAAB",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "enterpriselibrary4dataaccessapplicationblock1932847#3499980"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/entlib1991144/releases/3962672",
+  "@type" : "Component",
+  "name" : "EntLib",
+  "revision" : "3.1.0.0",
+  "homepage" : "http://www.nuget.org/packages/EntLib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "entlib1991144#3962672"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/eto1414305/releases/3400370",
+  "@type" : "Component",
+  "name" : "Eto",
+  "revision" : "1.2.1",
+  "homepage" : "http://github.com/picoe/Eto/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "eto1414305#3400370"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/extnetutilities1931087/releases/3484338",
+  "@type" : "Component",
+  "name" : "Ext.NET Utilities",
+  "revision" : "1.3.0",
+  "homepage" : "http://www.nuget.org/packages/Ext.NET.Utilities",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "extnetutilities1931087#3484338"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/legendfakesfakeiteasy626232/releases/3773593",
+  "@type" : "Component",
+  "name" : "Fake it Easy!",
+  "revision" : "1.13.0",
+  "homepage" : "http://www.nuget.org/packages/FakeItEasy",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "legendfakesfakeiteasy626232#3773593"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fakeiisx642102211/releases/5036423",
+  "@type" : "Component",
+  "name" : "FAKE.IIS.x64",
+  "revision" : "4.0.1",
+  "homepage" : "http://www.nuget.org/packages/FAKE.IIS.x64",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fakeiisx642102211#5036423"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fbconnectauth1932145/releases/3489399",
+  "@type" : "Component",
+  "name" : "FbConnectAuth",
+  "revision" : "0.9",
+  "homepage" : "http://www.nuget.org/packages/FbConnectAuth",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fbconnectauth1932145#3489399"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/filehelperslibhttpwwwfilehelperscom1930776/releases/3473713",
+  "@type" : "Component",
+  "name" : "FileHelpers Lib   http://www.filehelpers.com - FileHelpers",
+  "revision" : "2.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/FileHelpers",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "filehelperslibhttpwwwfilehelperscom1930776#3473713"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/firefox1991761/releases/3969089",
+  "@type" : "Component",
+  "name" : "Firefox",
+  "revision" : "3.6.6",
+  "homepage" : "http://www.nuget.org/packages/Firefox",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unknown",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "firefox1991761#3969089"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fizzler1978294/releases/3828038",
+  "@type" : "Component",
+  "name" : "Fizzler",
+  "revision" : "0.9",
+  "homepage" : "http://www.nuget.org/packages/Fizzler",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl3",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fizzler1978294#3828038"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fluentmigrator1410098/releases/3765690",
+  "@type" : "Component",
+  "name" : "Fluent Migrator",
+  "revision" : "0.9.2.0",
+  "homepage" : "http://www.nuget.org/packages/FluentMigrator",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fluentmigrator1410098#3765690"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fluentmigrator1410098/releases/3765692",
+  "@type" : "Component",
+  "name" : "Fluent Migrator",
+  "revision" : "0.9.0.0",
+  "homepage" : "http://www.nuget.org/packages/FluentMigrator",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fluentmigrator1410098#3765692"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fluentnhibernate871589/releases/3528348",
+  "@type" : "Component",
+  "name" : "Fluent NHibernate",
+  "revision" : "1.1.0.694",
+  "homepage" : "http://www.nuget.org/packages/FluentNHibernate",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fluentnhibernate871589#3528348"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fluentapiforspringnet1045500/releases/3879562",
+  "@type" : "Component",
+  "name" : "FluentSpring.Net",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/FluentSpring.Net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fluentapiforspringnet1045500#3879562"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fluentapiforspringnet1045500/releases/3879564",
+  "@type" : "Component",
+  "name" : "FluentSpring.Net",
+  "revision" : "1.2.0",
+  "homepage" : "http://www.nuget.org/packages/FluentSpring.Net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fluentapiforspringnet1045500#3879564"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fluentvalidation576228/releases/3475165",
+  "@type" : "Component",
+  "name" : "FluentValidation",
+  "revision" : "3.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/FluentValidation",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fluentvalidation576228#3475165"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fredckfckeditorv21967979/releases/3721093",
+  "@type" : "Component",
+  "name" : "FredCK.FCKeditorV2",
+  "revision" : "2.6.3.22451",
+  "homepage" : "http://www.nuget.org/packages/FredCK.FCKeditorV2",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fredckfckeditorv21967979#3721093"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fsharpcore1931733/releases/4531597",
+  "@type" : "Component",
+  "name" : "FSharp.Core",
+  "revision" : "3.0.2",
+  "homepage" : "http://www.nuget.org/packages/FSharp.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fsharpcore1931733#4531597"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fsunitxunit1965724/releases/3722278",
+  "@type" : "Component",
+  "name" : "FsUnit.xUnit",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/FsUnit.xUnit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fsunitxunit1965724#3722278"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fubucore1360074/releases/3475413",
+  "@type" : "Component",
+  "name" : "FubuCore",
+  "revision" : "0.9.1.21",
+  "homepage" : "http://www.nuget.org/packages/FubuCore",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fubucore1360074#3475413"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/fubumvc796118/releases/3164536",
+  "@type" : "Component",
+  "name" : "fubumvc",
+  "revision" : "1.0.1.1410",
+  "homepage" : "http://github.com/DarthFubuMVC/fubumvc/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "fubumvc796118#3164536"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/galliombunit1931847/releases/3850608",
+  "@type" : "Component",
+  "name" : "Gallio & MbUnit",
+  "revision" : "3.4.14.0",
+  "homepage" : "http://www.nuget.org/packages/Gallio_MbUnit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "galliombunit1931847#3850608"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/galliombunit1931847/releases/4447005",
+  "@type" : "Component",
+  "name" : "Gallio & MbUnit",
+  "revision" : "3.4.14",
+  "homepage" : "http://www.nuget.org/packages/mbunit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "galliombunit1931847#4447005"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/galliobundle1969180/releases/3727940",
+  "@type" : "Component",
+  "name" : "Gallio Bundle",
+  "revision" : "3.4.14",
+  "homepage" : "http://www.nuget.org/packages/GallioBundle",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "galliobundle1969180#3727940"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/quickgraph578628/releases/3474640",
+  "@type" : "Component",
+  "name" : "Generic graph data structures and algorithms for .NET",
+  "revision" : "3.6.61119.6",
+  "homepage" : "http://www.nuget.org/packages/QuickGraph",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "quickgraph578628#3474640"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ghostmonkdirectshowwrappers1971706/releases/3752708",
+  "@type" : "Component",
+  "name" : "Ghostmonk DirectShow Wrappers",
+  "revision" : "0.1.1.30019",
+  "homepage" : "http://www.nuget.org/packages/GhostmonkLibs.DirectShowWrappers",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ghostmonkdirectshowwrappers1971706#3752708"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ghostscriptsharp854336/releases/3863321",
+  "@type" : "Component",
+  "name" : "GhostScriptSharp",
+  "revision" : "1.3.0",
+  "homepage" : "http://www.nuget.org/packages/GhostScriptSharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ghostscriptsharp854336#3863321"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ghostscriptsharp854336/releases/3863322",
+  "@type" : "Component",
+  "name" : "GhostScriptSharp",
+  "revision" : "1.1.0",
+  "homepage" : "http://www.nuget.org/packages/GhostScriptSharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ghostscriptsharp854336#3863322"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/global2037739/releases/4160716",
+  "@type" : "Component",
+  "name" : "Global",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/Global",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "global2037739#4160716"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/gnugettexttoolsforwindows1967059/releases/3742683",
+  "@type" : "Component",
+  "name" : "GNU gettext tools for Windows",
+  "revision" : "0.18.3.201",
+  "homepage" : "http://www.nuget.org/packages/Gettext.Tools",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/GPL30",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "gnugettexttoolsforwindows1967059#3742683"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/gnuwin32binaries2826331/releases/5062282",
+  "@type" : "Component",
+  "name" : "GnuWin32 Binaries",
+  "revision" : "0.6.3",
+  "homepage" : "http://www.nuget.org/packages/GnuWin32.Bin",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "gnuwin32binaries2826331#5062282"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/googlemap576458/releases/2603464",
+  "@type" : "Component",
+  "name" : "GoogleMap Control",
+  "revision" : "6.1",
+  "homepage" : "http://googlemap.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Microsoft_Permissive_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "googlemap576458#2603464"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/heresaylibraries1932407/releases/3497771",
+  "@type" : "Component",
+  "name" : "HereSay Libraries",
+  "revision" : "0.2.0.3",
+  "homepage" : "http://www.nuget.org/packages/HereSay-Lib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/GPL30",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "heresaylibraries1932407#3497771"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/hexterinnosetupcommandline1966728/releases/3716963",
+  "@type" : "Component",
+  "name" : "hexter.innosetup.commandline",
+  "revision" : "5.5.3.1",
+  "homepage" : "http://www.nuget.org/packages/hexter.innosetup.commandline",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "hexterinnosetupcommandline1966728#3716963"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/hiro651211/releases/3808321",
+  "@type" : "Component",
+  "name" : "Hiro",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Hiro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl3",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "hiro651211#3808321"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/hiro651211/releases/3808320",
+  "@type" : "Component",
+  "name" : "Hiro",
+  "revision" : "1.0.4.41795",
+  "homepage" : "http://www.nuget.org/packages/Hiro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl3",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "hiro651211#3808320"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/hiro651211/releases/3808323",
+  "@type" : "Component",
+  "name" : "Hiro",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/Hiro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl3",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "hiro651211#3808323"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/htmlagilitypack583696/releases/2272481",
+  "@type" : "Component",
+  "name" : "Html Agility Pack",
+  "revision" : "HAP 1.4.6",
+  "homepage" : "http://htmlagilitypack.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "htmlagilitypack583696#2272481"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/html5videoplayer2400115/releases/4562553",
+  "@type" : "Component",
+  "name" : "HTML5VideoPlayer",
+  "revision" : "1.0.0.1",
+  "homepage" : "http://www.nuget.org/packages/HTML5VideoPlayer",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "html5videoplayer2400115#4562553"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/htmlagilitypack583696/releases/3474155",
+  "@type" : "Component",
+  "name" : "HtmlAgilityPack",
+  "revision" : "1.4.0",
+  "homepage" : "http://www.nuget.org/packages/HtmlAgilityPack",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "htmlagilitypack583696#3474155"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/hydromodeler1970435/releases/3739526",
+  "@type" : "Component",
+  "name" : "HydroModeler",
+  "revision" : "0.0.1",
+  "homepage" : "http://www.nuget.org/packages/HydroModeler",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "hydromodeler1970435#3739526"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/hydromodeler1970435/releases/3739527",
+  "@type" : "Component",
+  "name" : "HydroModeler",
+  "revision" : "1.4.0",
+  "homepage" : "http://www.nuget.org/packages/HydroModeler",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "hydromodeler1970435#3739527"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/i18n2400061/releases/4562256",
+  "@type" : "Component",
+  "name" : "I18N",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/I18N",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "i18n2400061#4562256"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/icsharpcodetexteditor1931624/releases/3481006",
+  "@type" : "Component",
+  "name" : "ICSharpCode.TextEditor",
+  "revision" : "3.2.1.6466",
+  "homepage" : "http://www.nuget.org/packages/ICSharpCode.TextEditor",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "icsharpcodetexteditor1931624#3481006"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/identiconhandler1932794/releases/3499406",
+  "@type" : "Component",
+  "name" : "IdenticonHandler",
+  "revision" : "1.1.0",
+  "homepage" : "http://www.nuget.org/packages/IdenticonHandler",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "identiconhandler1932794#3499406"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/iesicollections1785506/releases/3534192",
+  "@type" : "Component",
+  "name" : "Iesi.Collections",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/Iesi.Collections",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "iesicollections1785506#3534192"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ikvmnet56802/releases/1770014",
+  "@type" : "Component",
+  "name" : "IKVM.NET",
+  "revision" : "0.46.0.1",
+  "homepage" : "http://sourceforge.net/projects/ikvm/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/GNU_Classpath_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ikvmnet56802#1770014"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ikvmnet56802/releases/2950143",
+  "@type" : "Component",
+  "name" : "IKVM.NET",
+  "revision" : "7.2.4630.5",
+  "homepage" : "http://sourceforge.net/projects/ikvm/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/zlib",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ikvmnet56802#2950143"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ilmergemsbuildtasks1932332/releases/3500829",
+  "@type" : "Component",
+  "name" : "ILMerge MSBuild Tasks",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/ILMerge.MSBuild.Tasks",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ilmergemsbuildtasks1932332#3500829"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ilrepackopensourcealternativetoilmerge1933491/releases/3508248",
+  "@type" : "Component",
+  "name" : "ILRepack - Open-source alternative to ILMerge",
+  "revision" : "1.22.2",
+  "homepage" : "http://www.nuget.org/packages/ILRepack",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ilrepackopensourcealternativetoilmerge1933491#3508248"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/inflectorextension676864/releases/3864632",
+  "@type" : "Component",
+  "name" : "inflector_extension",
+  "revision" : "0.0.6",
+  "homepage" : "http://github.com/littlebits/inflector_extension/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "inflectorextension676864#3864632"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/inflectorextension676864/releases/3864634",
+  "@type" : "Component",
+  "name" : "inflector_extension",
+  "revision" : "0.0.7",
+  "homepage" : "http://github.com/littlebits/inflector_extension/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "inflectorextension676864#3864634"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/innosetuptools2051348/releases/5038986",
+  "@type" : "Component",
+  "name" : "Inno Setup tools",
+  "revision" : "5.5.6",
+  "homepage" : "http://www.nuget.org/packages/Tools.InnoSetup",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "innosetuptools2051348#5038986"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/isotestnuget1972398/releases/3760549",
+  "@type" : "Component",
+  "name" : "ISOTestNuget",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/ISOTestNuget",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "isotestnuget1972398#3760549"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/itextsharplgplmpl1930803/releases/3474608",
+  "@type" : "Component",
+  "name" : "iTextSharp (LGPL / MPL)",
+  "revision" : "4.1.6",
+  "homepage" : "http://www.nuget.org/packages/iTextSharp-LGPL",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "itextsharplgplmpl1930803#3474608"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/itoofreshservicemodel2779210/releases/4650519",
+  "@type" : "Component",
+  "name" : "ITOO.FreshService.Model",
+  "revision" : "1.0.0.4",
+  "homepage" : "http://www.nuget.org/packages/ITOO.FreshService.Model",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "itoofreshservicemodel2779210#4650519"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/itoolibrarycore2814368/releases/4994323",
+  "@type" : "Component",
+  "name" : "ITOO.Library.Core",
+  "revision" : "1.0.2.3",
+  "homepage" : "http://www.nuget.org/packages/ITOO.Library.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "itoolibrarycore2814368#4994323"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jessicaviewenginetextile1208752/releases/4161072",
+  "@type" : "Component",
+  "name" : "jessica-viewengine-textile",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/jessica-viewengine-textile",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jessicaviewenginetextile1208752#4161072"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jetbrainsdotmemoryunitpackageversion102015030420115eap52786107/releases/4738264",
+  "@type" : "Component",
+  "name" : "JetBrains DotMemoryUnit Package Version 1.0.20150304.20115-EAP5",
+  "revision" : "1.0.20150304.20115",
+  "homepage" : "http://www.nuget.org/packages/JetBrains.DotMemoryUnit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jetbrainsdotmemoryunitpackageversion102015030420115eap52786107#4738264"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jetbrainsresharpercommandlinetools912788938/releases/5046835",
+  "@type" : "Component",
+  "name" : "JetBrains ReSharper Command Line Tools 9.1",
+  "revision" : "9.2.20150727.161305-EAP5",
+  "homepage" : "http://www.nuget.org/packages/JetBrains.ReSharper.CommandLineTools",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jetbrainsresharpercommandlinetools912788938#5046835"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jetbrainsresharpersdk1938837/releases/3619896",
+  "@type" : "Component",
+  "name" : "JetBrains ReSharper SDK",
+  "revision" : "8.0.1086",
+  "homepage" : "http://www.nuget.org/packages/JetBrains.ReSharper.SDK",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jetbrainsresharpersdk1938837#3619896"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsandcsscombiner1959035/releases/3690270",
+  "@type" : "Component",
+  "name" : "JsAndCssCombiner",
+  "revision" : "1.0.7",
+  "homepage" : "http://www.nuget.org/packages/JsAndCssCombiner",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsandcsscombiner1959035#3690270"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsonnet593440/releases/3472340",
+  "@type" : "Component",
+  "name" : "Json.NET",
+  "revision" : "4.0.8",
+  "homepage" : "http://www.nuget.org/packages/Newtonsoft.Json",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsonnet593440#3472340"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsonnet593440/releases/3474145",
+  "@type" : "Component",
+  "name" : "Json.NET",
+  "revision" : "5.0.1",
+  "homepage" : "http://www.nuget.org/packages/Newtonsoft.Json",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsonnet593440#3474145"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsonnet593440/releases/3475031",
+  "@type" : "Component",
+  "name" : "Json.NET",
+  "revision" : "4.0.7",
+  "homepage" : "http://www.nuget.org/packages/Newtonsoft.Json",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsonnet593440#3475031"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsonnet593440/releases/3472341",
+  "@type" : "Component",
+  "name" : "Json.NET",
+  "revision" : "4.0.1",
+  "homepage" : "http://www.nuget.org/packages/Newtonsoft.Json",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsonnet593440#3472341"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsonnet593440/releases/3472342",
+  "@type" : "Component",
+  "name" : "Json.NET",
+  "revision" : "3.5.8",
+  "homepage" : "http://www.nuget.org/packages/Newtonsoft.Json",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsonnet593440#3472342"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsonnet593440/releases/3475028",
+  "@type" : "Component",
+  "name" : "Json.NET",
+  "revision" : "4.5.6",
+  "homepage" : "http://www.nuget.org/packages/Newtonsoft.Json",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsonnet593440#3475028"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/jsonnet593440/releases/3474143",
+  "@type" : "Component",
+  "name" : "Json.NET",
+  "revision" : "5.0.5",
+  "homepage" : "http://www.nuget.org/packages/Newtonsoft.Json",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "jsonnet593440#3474143"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/justgivingsdk1932599/releases/3500413",
+  "@type" : "Component",
+  "name" : "justgiving-sdk",
+  "revision" : "1.5.2",
+  "homepage" : "http://www.nuget.org/packages/justgiving-sdk",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "justgivingsdk1932599#3500413"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/kalittedashboardsampleapp1966430/releases/3716054",
+  "@type" : "Component",
+  "name" : "Kalitte.Dashboard.SampleApp",
+  "revision" : "3.6.0.1",
+  "homepage" : "http://www.nuget.org/packages/Kalitte.Dashboard.SampleApp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "kalittedashboardsampleapp1966430#3716054"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/keanumvcreferences1956513/releases/3677500",
+  "@type" : "Component",
+  "name" : "KeanuMVC.References",
+  "revision" : "1.0.2",
+  "homepage" : "http://www.nuget.org/packages/KeanuMVC.References",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "keanumvcreferences1956513#3677500"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/keeplebaseutils1967072/releases/3727995",
+  "@type" : "Component",
+  "name" : "KeepleBase.Utils",
+  "revision" : "0.1.0",
+  "homepage" : "http://www.nuget.org/packages/KeepleBase.Utils",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "keeplebaseutils1967072#3727995"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/kitwareactiviznetx641934172/releases/3507556",
+  "@type" : "Component",
+  "name" : "Kitware Activiz.NET (x64)",
+  "revision" : "5.6.1",
+  "homepage" : "http://www.nuget.org/packages/Activiz.NET.x64",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "kitwareactiviznetx641934172#3507556"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/kitwareactiviznetx861933371/releases/3504150",
+  "@type" : "Component",
+  "name" : "Kitware Activiz.NET (x86)",
+  "revision" : "5.6.1",
+  "homepage" : "http://www.nuget.org/packages/Activiz.NET.x86",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "kitwareactiviznetx861933371#3504150"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/lemmatizergenerator1967615/releases/3719612",
+  "@type" : "Component",
+  "name" : "Lemmatizer generator",
+  "revision" : "1.0.2",
+  "homepage" : "http://www.nuget.org/packages/LemmaGenerator",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "lemmatizergenerator1967615#3719612"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/libgit2sharp898842/releases/3791841",
+  "@type" : "Component",
+  "name" : "LibGit2Sharp",
+  "revision" : "0.3",
+  "homepage" : "http://www.nuget.org/packages/LibGit2Sharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "libgit2sharp898842#3791841"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/libgit2sharp898842/releases/4631187",
+  "@type" : "Component",
+  "name" : "LibGit2Sharp",
+  "revision" : "0.20.2",
+  "homepage" : "http://www.nuget.org/packages/LibGit2Sharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "libgit2sharp898842#4631187"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/libgit2sharp898842/releases/1886508",
+  "@type" : "Component",
+  "name" : "libgit2sharp",
+  "revision" : "0.1.0",
+  "homepage" : "http://github.com/nulltoken/libgit2sharp/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "libgit2sharp898842#1886508"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/linqproviderfortfs2012workitems1967392/releases/5182632",
+  "@type" : "Component",
+  "name" : "Linq provider for TFS 2012 workitems",
+  "revision" : "0.2.1",
+  "homepage" : "http://www.nuget.org/packages/Wilinq",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "linqproviderfortfs2012workitems1967392#5182632"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/linqtotwitter577182/releases/1606618",
+  "@type" : "Component",
+  "name" : "LINQ to Twitter",
+  "revision" : "Beta 2.0.20",
+  "homepage" : "http://linqtotwitter.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "linqtotwitter577182#1606618"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/linqtocsv1299721/releases/3801942",
+  "@type" : "Component",
+  "name" : "LINQtoCSV",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/LinqToCsv",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "linqtocsv1299721#3801942"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/log4net12111930591/releases/3473291",
+  "@type" : "Component",
+  "name" : "log4net [1.2.11]",
+  "revision" : "1.2.10",
+  "homepage" : "http://www.nuget.org/packages/log4net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "log4net12111930591#3473291"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/log4net12111930591/releases/3474117",
+  "@type" : "Component",
+  "name" : "log4net [1.2.11]",
+  "revision" : "2.0.0",
+  "homepage" : "http://www.nuget.org/packages/log4net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "log4net12111930591#3474117"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/logentriespluginfornlogv201931552/releases/3483080",
+  "@type" : "Component",
+  "name" : "Logentries Plugin for Nlog v2.0",
+  "revision" : "2.1.8",
+  "homepage" : "http://www.nuget.org/packages/le_nlog",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "logentriespluginfornlogv201931552#3483080"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/logviewer2400488/releases/4565109",
+  "@type" : "Component",
+  "name" : "LogViewer",
+  "revision" : "1.06",
+  "homepage" : "http://www.nuget.org/packages/Sana.Commerce.BackOffice.LogViewer",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "logviewer2400488#4565109"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/logviewer2400488/releases/4565098",
+  "@type" : "Component",
+  "name" : "LogViewer",
+  "revision" : "1.1501",
+  "homepage" : "http://www.nuget.org/packages/Sana.Commerce.BackOffice.LogViewer",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "logviewer2400488#4565098"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/lucenenet1930616/releases/3472345",
+  "@type" : "Component",
+  "name" : "Lucene.Net",
+  "revision" : "3.0.3",
+  "homepage" : "http://www.nuget.org/packages/Lucene.Net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "lucenenet1930616#3472345"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/lucenesteroids1933198/releases/3506593",
+  "@type" : "Component",
+  "name" : "Lucene.Steroids",
+  "revision" : "1.0.0.1",
+  "homepage" : "http://www.nuget.org/packages/Lucene.Steroids",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "lucenesteroids1933198#3506593"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/lucenesteroids1933198/releases/3506254",
+  "@type" : "Component",
+  "name" : "Lucene.Steroids",
+  "revision" : "1.0.0.4",
+  "homepage" : "http://www.nuget.org/packages/Lucene.Steroids",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "lucenesteroids1933198#3506254"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/machinespecifications791711/releases/3795208",
+  "@type" : "Component",
+  "name" : "Machine.Specifications",
+  "revision" : "0.8.0",
+  "homepage" : "http://www.nuget.org/packages/Machine.Specifications",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "machinespecifications791711#3795208"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/magnum1935581/releases/3965315",
+  "@type" : "Component",
+  "name" : "Magnum",
+  "revision" : "1.1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Magnum",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "magnum1935581#3965315"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mahappsmetro1356776/releases/3603769",
+  "@type" : "Component",
+  "name" : "MahApps.Metro",
+  "revision" : "0.12.1",
+  "homepage" : "http://github.com/MahApps/MahApps.Metro/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mahappsmetro1356776#3603769"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mahappsmetro1356776/releases/3777509",
+  "@type" : "Component",
+  "name" : "MahApps.Metro",
+  "revision" : "0.1",
+  "homepage" : "http://www.nuget.org/packages/MahApps.Metro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mahappsmetro1356776#3777509"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mahappsmetro1356776/releases/3777507",
+  "@type" : "Component",
+  "name" : "MahApps.Metro",
+  "revision" : "0.12.0",
+  "homepage" : "http://www.nuget.org/packages/MahApps.Metro",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mahappsmetro1356776#3777507"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/managedwinapi1932801/releases/3499464",
+  "@type" : "Component",
+  "name" : "ManagedWinApi",
+  "revision" : "0.3",
+  "homepage" : "http://www.nuget.org/packages/ManagedWinapi",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "managedwinapi1932801#3499464"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mapsurfernetcore2778376/releases/5040825",
+  "@type" : "Component",
+  "name" : "MapSurfer.NET Core",
+  "revision" : "2.1.0",
+  "homepage" : "http://www.nuget.org/packages/MapSurfer.NET.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mapsurfernetcore2778376#5040825"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mapsurfernetcore2778376/releases/4636431",
+  "@type" : "Component",
+  "name" : "MapSurfer.NET Core",
+  "revision" : "1.16.2",
+  "homepage" : "http://www.nuget.org/packages/MapSurfer.NET.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mapsurfernetcore2778376#4636431"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/masstransit1410161/releases/2003691",
+  "@type" : "Component",
+  "name" : "MassTransit",
+  "revision" : "2.0.0.2",
+  "homepage" : "http://github.com/phatboyg/MassTransit/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "masstransit1410161#2003691"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mefxdiagnosticlibrary1932319/releases/3496712",
+  "@type" : "Component",
+  "name" : "MEFX Diagnostic Library",
+  "revision" : "0.4",
+  "homepage" : "http://www.nuget.org/packages/MEFX.Core.Unofficial",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mefxdiagnosticlibrary1932319#3496712"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/memcachedclientlibrary1932055/releases/3487152",
+  "@type" : "Component",
+  "name" : "Memcached.ClientLibrary",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/Memcached.ClientLibrary",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "memcachedclientlibrary1932055#3487152"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/merchanttribeweb2400015/releases/4561986",
+  "@type" : "Component",
+  "name" : "MerchantTribe.Web",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/MerchantTribe.Web",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "merchanttribeweb2400015#4561986"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mereexcel1971664/releases/3750899",
+  "@type" : "Component",
+  "name" : "Mere Excel",
+  "revision" : "0.0.1",
+  "homepage" : "http://www.nuget.org/packages/Mere.Excel",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mereexcel1971664#3750899"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftaspnetmvc569000/releases/3426247",
+  "@type" : "Component",
+  "name" : "Microsoft ASP.NET MVC",
+  "revision" : "3.0.20105.1",
+  "homepage" : "http://www.microsoft.com/downloads/details.aspx?FamilyID=53289097-73ce-43bf-b6a6-35e00103cb4b&displaylang=en",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftaspnetmodel-view-controllerlicense_5081",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftaspnetmvc569000#3426247"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftaspnetrsstoolkit1964686/releases/3709687",
+  "@type" : "Component",
+  "name" : "Microsoft ASP.NET RssToolkit",
+  "revision" : "2.0",
+  "homepage" : "http://www.nuget.org/packages/RssToolkit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftaspnetrsstoolkit1964686#3709687"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftaspnetweboptimizationframework1930609/releases/3474125",
+  "@type" : "Component",
+  "name" : "Microsoft ASP.NET Web Optimization Framework",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.AspNet.Web.Optimization",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftaspnetweboptimizationframework1930609#3474125"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftaspnetwebpages1926076/releases/3426635",
+  "@type" : "Component",
+  "name" : "Microsoft ASP.NET Web Pages",
+  "revision" : "1.0.20105.408",
+  "homepage" : "https://www.nuget.org/packages/Microsoft.AspNet.WebPages/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftaspnetmodel-view-controllerlicense_5081",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftaspnetwebpages1926076#3426635"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftvisualstudiodebuggerinteropa2820329/releases/5024254",
+  "@type" : "Component",
+  "name" : "Microsoft.VisualStudio.Debugger.InteropA",
+  "revision" : "9.0.21022",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.VisualStudio.Debugger.InteropA",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftvisualstudiodebuggerinteropa2820329#5024254"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftvisualstudioshellinterop2820309/releases/5024187",
+  "@type" : "Component",
+  "name" : "Microsoft.VisualStudio.Shell.Interop",
+  "revision" : "7.10.6071",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.VisualStudio.Shell.Interop",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftvisualstudioshellinterop2820309#5024187"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftvisualstudioshellinterop902820353/releases/5024278",
+  "@type" : "Component",
+  "name" : "Microsoft.VisualStudio.Shell.Interop.9.0",
+  "revision" : "9.0.30729",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.VisualStudio.Shell.Interop.9.0",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftvisualstudioshellinterop902820353#5024278"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftvisualstudiotextmanagerinterop2820349/releases/5024274",
+  "@type" : "Component",
+  "name" : "Microsoft.VisualStudio.TextManager.Interop",
+  "revision" : "7.10.6070",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.VisualStudio.TextManager.Interop",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftvisualstudiotextmanagerinterop2820349#5024274"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftvisualstudiotextmanagerinterop802820347/releases/5024272",
+  "@type" : "Component",
+  "name" : "Microsoft.VisualStudio.TextManager.Interop.8.0",
+  "revision" : "8.0.50727",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.VisualStudio.TextManager.Interop.8.0",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftvisualstudiotextmanagerinterop802820347#5024272"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftvisualstudiotextmanagerinterop902820346/releases/5024271",
+  "@type" : "Component",
+  "name" : "Microsoft.VisualStudio.TextManager.Interop.9.0",
+  "revision" : "9.0.30729",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.VisualStudio.TextManager.Interop.9.0",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftvisualstudiotextmanagerinterop902820346#5024271"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftwebinfrastructure1930811/releases/3474989",
+  "@type" : "Component",
+  "name" : "Microsoft.Web.Infrastructure",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.Web.Infrastructure",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftwebinfrastructure1930811#3474989"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/microsoftwindowsapicodepackshell2788039/releases/4751547",
+  "@type" : "Component",
+  "name" : "Microsoft.WindowsAPICodePack.Shell",
+  "revision" : "1.1.0",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.WindowsAPICodePack.Shell",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftwindowsapicodepackshell2788039#4751547"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/miditoolkit1969997/releases/3734717",
+  "@type" : "Component",
+  "name" : "MIDI Toolkit",
+  "revision" : "5.0.2",
+  "homepage" : "http://www.nuget.org/packages/Sanford.MidiToolkit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "miditoolkit1969997#3734717"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/migrationscriptgenerator2400128/releases/4562651",
+  "@type" : "Component",
+  "name" : "MigrationScriptGenerator",
+  "revision" : "1.1.7",
+  "homepage" : "http://www.nuget.org/packages/MigrationScriptGenerator",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "migrationscriptgenerator2400128#4562651"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/migrationscriptgenerator2400128/releases/4562650",
+  "@type" : "Component",
+  "name" : "MigrationScriptGenerator",
+  "revision" : "1.1.10",
+  "homepage" : "http://www.nuget.org/packages/MigrationScriptGenerator",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "migrationscriptgenerator2400128#4562650"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/migratordotnet660696/releases/3841457",
+  "@type" : "Component",
+  "name" : "migratordotnet",
+  "revision" : "0.9.0.28138",
+  "homepage" : "http://www.nuget.org/packages/MigratorDotNet",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "migratordotnet660696#3841457"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/miniprofiler1354117/releases/2039516",
+  "@type" : "Component",
+  "name" : "MiniProfiler",
+  "revision" : "2.0.2",
+  "homepage" : "http://github.com/SamSaffron/MiniProfiler/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "miniprofiler1354117#2039516"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mixedauthenticationdispositionaspnetmodulemadam1934088/releases/3509988",
+  "@type" : "Component",
+  "name" : "Mixed Authentication Disposition ASP.NET Module (MADAM)",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/madam",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/zlib",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mixedauthenticationdispositionaspnetmodulemadam1934088#3509988"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mondomvcboost1933391/releases/3504195",
+  "@type" : "Component",
+  "name" : "mondo-mvcboost",
+  "revision" : "0.1.11",
+  "homepage" : "http://www.nuget.org/packages/mondo-mvcboost",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mondomvcboost1933391#3504195"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/monocecil1930804/releases/3475539",
+  "@type" : "Component",
+  "name" : "Mono.Cecil",
+  "revision" : "0.9.5.4",
+  "homepage" : "http://www.nuget.org/packages/Mono.Cecil",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "monocecil1930804#3475539"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/monocecil1930804/releases/3475540",
+  "@type" : "Component",
+  "name" : "Mono.Cecil",
+  "revision" : "0.9.5.2",
+  "homepage" : "http://www.nuget.org/packages/Mono.Cecil",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "monocecil1930804#3475540"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/monocecil1930804/releases/3474637",
+  "@type" : "Component",
+  "name" : "Mono.Cecil",
+  "revision" : "0.9.5.3",
+  "homepage" : "http://www.nuget.org/packages/Mono.Cecil",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "monocecil1930804#3474637"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/monoreflection682472/releases/3791425",
+  "@type" : "Component",
+  "name" : "Mono.Reflection",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/Mono.Reflection",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "monoreflection682472#3791425"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/monogamebinaries1965045/releases/3710603",
+  "@type" : "Component",
+  "name" : "MonoGame.Binaries",
+  "revision" : "3.0.1",
+  "homepage" : "http://www.nuget.org/packages/MonoGame.Binaries",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "monogamebinaries1965045#3710603"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/monogamecontentprocessors1977798/releases/3822397",
+  "@type" : "Component",
+  "name" : "MonoGame.ContentProcessors",
+  "revision" : "3.2.0",
+  "homepage" : "http://www.nuget.org/packages/MonoGame.ContentProcessors",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "monogamecontentprocessors1977798#3822397"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/monoxcmsruntime1945007/releases/3636263",
+  "@type" : "Component",
+  "name" : "MonoX CMS Runtime",
+  "revision" : "4.7.40.4551-prerelease",
+  "homepage" : "http://www.nuget.org/packages/MonoX.CMS.Runtime",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unknown",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "monoxcmsruntime1945007#3636263"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/moq532099/releases/1732439",
+  "@type" : "Component",
+  "name" : "moq",
+  "revision" : "4.0.10827",
+  "homepage" : "http://code.google.com/p/moq/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "moq532099#1732439"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/moq532099/releases/1732441",
+  "@type" : "Component",
+  "name" : "moq",
+  "revision" : "3.1.416.3",
+  "homepage" : "http://code.google.com/p/moq/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "moq532099#1732441"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/msbuildextensionpack577672/releases/3867035",
+  "@type" : "Component",
+  "name" : "MSBuild.Extension.Pack",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/MSBuild.Extension.Pack",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "msbuildextensionpack577672#3867035"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mugenmvvmtoolkit2400594/releases/4565763",
+  "@type" : "Component",
+  "name" : "MugenMVVMToolkit",
+  "revision" : "2.1.1",
+  "homepage" : "http://www.nuget.org/packages/MugenMVVMToolkit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mugenmvvmtoolkit2400594#4565763"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/multiprojectwizard1970944/releases/3743384",
+  "@type" : "Component",
+  "name" : "MultiProjectWizard",
+  "revision" : "0.1.0",
+  "homepage" : "http://www.nuget.org/packages/MultiProjectWizard",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "multiprojectwizard1970944#3743384"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mvccontribmvc3testhelperci1930678/releases/3474467",
+  "@type" : "Component",
+  "name" : "MvcContrib.Mvc3.TestHelper-ci",
+  "revision" : "3.0.60.0",
+  "homepage" : "http://www.nuget.org/packages/MvcContrib.Mvc3.TestHelper-ci",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mvccontribmvc3testhelperci1930678#3474467"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mvccontribmvc3watinci1931468/releases/3487597",
+  "@type" : "Component",
+  "name" : "MvcContrib.Mvc3.WatiN-ci",
+  "revision" : "3.0.57.0",
+  "homepage" : "http://www.nuget.org/packages/MvcContrib.Mvc3.WatiN-ci",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mvccontribmvc3watinci1931468#3487597"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mvcturbine1973386/releases/3772405",
+  "@type" : "Component",
+  "name" : "MVCTurbine",
+  "revision" : "3.2",
+  "homepage" : "http://www.nuget.org/packages/MVCTurbine",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mvcturbine1973386#3772405"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mvpxml1934302/releases/3508430",
+  "@type" : "Component",
+  "name" : "Mvp.Xml",
+  "revision" : "2.3.0",
+  "homepage" : "http://www.nuget.org/packages/Mvp.Xml",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mvpxml1934302#3508430"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mvvmlighttoolkit646158/releases/3475307",
+  "@type" : "Component",
+  "name" : "MVVM Light",
+  "revision" : "3.0.0.29166",
+  "homepage" : "http://www.nuget.org/packages/MvvmLight",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mvvmlighttoolkit646158#3475307"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mxgeneraliokdmfdriver1970899/releases/3742721",
+  "@type" : "Component",
+  "name" : "MxGeneralIo KDMF Driver",
+  "revision" : "0.0.1",
+  "homepage" : "http://www.nuget.org/packages/MxGeneralIo",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mxgeneraliokdmfdriver1970899#3742721"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mytestpackagemypackage08010011964232/releases/3708674",
+  "@type" : "Component",
+  "name" : "My Test Package MyPackage0801_001",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/MyPackage0801_001",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mytestpackagemypackage08010011964232#3708674"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mypackage1934241/releases/3508053",
+  "@type" : "Component",
+  "name" : "MyPackage",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/MyPackage",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mypackage1934241#3508053"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mypackagerafaelfraga1983991/releases/3908156",
+  "@type" : "Component",
+  "name" : "MyPackage_RafaelFraga",
+  "revision" : "2.0.0",
+  "homepage" : "http://www.nuget.org/packages/MyPackage_RafaelFraga",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mypackagerafaelfraga1983991#3908156"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mysqldata1930665/releases/3475285",
+  "@type" : "Component",
+  "name" : "MySql.Data",
+  "revision" : "6.6.5",
+  "homepage" : "http://www.nuget.org/packages/MySql.Data",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/gpl20only",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mysqldata1930665#3475285"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mysqldata1930665/releases/3472597",
+  "@type" : "Component",
+  "name" : "MySql.Data",
+  "revision" : "6.4.4",
+  "homepage" : "http://www.nuget.org/packages/MySql.Data",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/gpl20only",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mysqldata1930665#3472597"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/mysqldataentities1931910/releases/3484370",
+  "@type" : "Component",
+  "name" : "MySQL.Data.Entities",
+  "revision" : "6.4.4.0",
+  "homepage" : "http://www.nuget.org/packages/MySQL.Data.Entities",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/gpl20only",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mysqldataentities1931910#3484370"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/naizari1969486/releases/3731218",
+  "@type" : "Component",
+  "name" : "Naizari",
+  "revision" : "1.0.0.1",
+  "homepage" : "http://www.nuget.org/packages/Naizari",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "naizari1969486#3731218"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nancy1855352/releases/2953394",
+  "@type" : "Component",
+  "name" : "Nancy",
+  "revision" : "0.4.0",
+  "homepage" : "http://github.com/NancyFx/Nancy/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nancy1855352#2953394"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nancy1855352/releases/2953400",
+  "@type" : "Component",
+  "name" : "Nancy",
+  "revision" : "0.6.0",
+  "homepage" : "http://github.com/NancyFx/Nancy/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nancy1855352#2953400"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/narrangeprebuild1968080/releases/3755801",
+  "@type" : "Component",
+  "name" : "NArrange.PreBuild",
+  "revision" : "0.2.9",
+  "homepage" : "http://www.nuget.org/packages/NArrange.PreBuild",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "narrangeprebuild1968080#3755801"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nbehavespecnunit1931258/releases/3481033",
+  "@type" : "Component",
+  "name" : "NBehave Spec - NUnit",
+  "revision" : "0.5.1.263",
+  "homepage" : "http://www.nuget.org/packages/nbehave.spec.nunit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nbehavespecnunit1931258#3481033"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nbehavespecxunit1955747/releases/3675184",
+  "@type" : "Component",
+  "name" : "NBehave Spec - XUnit",
+  "revision" : "0.5.1.263",
+  "homepage" : "http://www.nuget.org/packages/nbehave.spec.xunit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nbehavespecxunit1955747#3675184"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nbroadcast1562121/releases/2294376",
+  "@type" : "Component",
+  "name" : "nbroadcast",
+  "revision" : "0.2",
+  "homepage" : "http://github.com/brandonc/nbroadcast/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nbroadcast1562121#2294376"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ndeskoptions527317/releases/915896",
+  "@type" : "Component",
+  "name" : "NDesk - Options",
+  "revision" : "0.2.1",
+  "homepage" : "http://www.ndesk.org/Options",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ndeskoptions527317#915896"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/needplusdirectshowwrapper1971162/releases/3746660",
+  "@type" : "Component",
+  "name" : "NeedplusDirectShowWrapper",
+  "revision" : "1.0.1.0",
+  "homepage" : "http://www.nuget.org/packages/NeedplusDirectShowWrapper",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "needplusdirectshowwrapper1971162#3746660"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/artificialneuralnetworksincneurondotnet502746/releases/881905",
+  "@type" : "Component",
+  "name" : "NeuronDotNet - Neural Networks in C# - NeuronDotNet",
+  "revision" : "Core 3.0",
+  "homepage" : "http://sourceforge.net/projects/neurondotnet/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/GPL30",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "artificialneuralnetworksincneurondotnet502746#881905"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nextcallerapi2093061/releases/4549886",
+  "@type" : "Component",
+  "name" : "NextCallerApi",
+  "revision" : "1.1.2",
+  "homepage" : "http://www.nuget.org/packages/NextCallerApi",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nextcallerapi2093061#4549886"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ngithubextras1968220/releases/3723646",
+  "@type" : "Component",
+  "name" : "NGitHub.Extras",
+  "revision" : "0.6.4",
+  "homepage" : "http://www.nuget.org/packages/NGitHub.Extras",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ngithubextras1968220#3723646"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nhibernate183427/releases/3528252",
+  "@type" : "Component",
+  "name" : "NHibernate",
+  "revision" : "2.1.2.4000",
+  "homepage" : "http://www.nuget.org/packages/NHibernate",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nhibernate183427#3528252"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nhibernate183427/releases/3528256",
+  "@type" : "Component",
+  "name" : "NHibernate",
+  "revision" : "3.0.0.4000",
+  "homepage" : "http://www.nuget.org/packages/NHibernate",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nhibernate183427#3528256"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ninject650959/releases/1295785",
+  "@type" : "Component",
+  "name" : "Ninject",
+  "revision" : "2.0.1.0",
+  "homepage" : "http://github.com/ninject/ninject/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ninject650959#1295785"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nlapack1972211/releases/3759272",
+  "@type" : "Component",
+  "name" : "NLapack",
+  "revision" : "1.0.14",
+  "homepage" : "http://www.nuget.org/packages/NLapack",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nlapack1972211#3759272"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nlog748975/releases/3528199",
+  "@type" : "Component",
+  "name" : "NLog",
+  "revision" : "2.1.0",
+  "homepage" : "http://www.nuget.org/packages/NLog",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nlog748975#3528199"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nlog748975/releases/3528198",
+  "@type" : "Component",
+  "name" : "NLog",
+  "revision" : "1.0.0.505",
+  "homepage" : "http://www.nuget.org/packages/NLog",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nlog748975#3528198"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nlog748975/releases/3528197",
+  "@type" : "Component",
+  "name" : "NLog",
+  "revision" : "2.0.1.2",
+  "homepage" : "http://www.nuget.org/packages/NLog",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nlog748975#3528197"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/npack2429814/releases/4568358",
+  "@type" : "Component",
+  "name" : "NPack",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/NPack",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "npack2429814#4568358"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/npgsql07beta3/releases/3591462",
+  "@type" : "Component",
+  "name" : "Npgsql",
+  "revision" : "2.0.11",
+  "homepage" : "http://www.nuget.org/packages/Npgsql",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/PostgresSQL_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "npgsql07beta3#3591462"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/npgsql07beta3/releases/3591461",
+  "@type" : "Component",
+  "name" : "Npgsql",
+  "revision" : "2.0.12",
+  "homepage" : "http://www.nuget.org/packages/Npgsql",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/PostgresSQL_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "npgsql07beta3#3591461"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/npgsql07beta3/releases/3577203",
+  "@type" : "Component",
+  "name" : "Npgsql",
+  "revision" : "2.0.14.3",
+  "homepage" : "http://npgsql.projects.pgfoundry.org/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/PostgresSQL_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "npgsql07beta3#3577203"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/npgsqlbulkcopy2071919/releases/4309337",
+  "@type" : "Component",
+  "name" : "Npgsql BulkCopy",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/NpgsqlBulkCopy",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "npgsqlbulkcopy2071919#4309337"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/npgsqlbulkcopy2071919/releases/4309336",
+  "@type" : "Component",
+  "name" : "Npgsql BulkCopy",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/NpgsqlBulkCopy",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "npgsqlbulkcopy2071919#4309336"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/npoi578022/releases/1822762",
+  "@type" : "Component",
+  "name" : "NPOI",
+  "revision" : "1.2.4",
+  "homepage" : "http://npoi.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "npoi578022#1822762"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nservicebuscastlewindsor1938813/releases/3619714",
+  "@type" : "Component",
+  "name" : "NServiceBus CastleWindsor",
+  "revision" : "2.5.0.1469",
+  "homepage" : "http://www.nuget.org/packages/NServiceBus.CastleWindsor",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nservicebuscastlewindsor1938813#3619714"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nservicebusunity1933268/releases/3505807",
+  "@type" : "Component",
+  "name" : "NServiceBus Unity",
+  "revision" : "2.5.0.1469",
+  "homepage" : "http://www.nuget.org/packages/NServiceBus.Unity",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nservicebusunity1933268#3505807"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nspec2856974/releases/5286778",
+  "@type" : "Component",
+  "name" : "nspec",
+  "revision" : "0.9.1",
+  "homepage" : "http://www.nuget.org/packages/nspec",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nspec2856974#5286778"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ntstopologysuite1930712/releases/3475557",
+  "@type" : "Component",
+  "name" : "NTS - Topology Suite",
+  "revision" : "1.9",
+  "homepage" : "http://www.nuget.org/packages/NetTopologySuite",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl3",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ntstopologysuite1930712#3475557"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nugetcommandline1930606/releases/3473289",
+  "@type" : "Component",
+  "name" : "NuGet.CommandLine",
+  "revision" : "1.2.20311.3",
+  "homepage" : "http://www.nuget.org/packages/NuGet.CommandLine",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nugetcommandline1930606#3473289"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nugetcore1930598/releases/3472292",
+  "@type" : "Component",
+  "name" : "Nuget.Core",
+  "revision" : "2.6.0",
+  "homepage" : "http://www.nuget.org/packages/Nuget.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nugetcore1930598#3472292"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nugetdownloader1931753/releases/3482277",
+  "@type" : "Component",
+  "name" : "Nuget.Downloader",
+  "revision" : "1.0.0.3",
+  "homepage" : "http://www.nuget.org/packages/Nuget.Downloader",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nugetdownloader1931753#3482277"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nugetpackageserversidedocument2087338/releases/4416740",
+  "@type" : "Component",
+  "name" : "NuGet.Package.ServerSide.Document",
+  "revision" : "1.0.0.15",
+  "homepage" : "http://www.nuget.org/packages/NuGet.Package.ServerSide.Document",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nugetpackageserversidedocument2087338#4416740"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nugetpackageserversidedocument2087338/releases/4383247",
+  "@type" : "Component",
+  "name" : "NuGet.Package.ServerSide.Document",
+  "revision" : "1.0.0.2",
+  "homepage" : "http://www.nuget.org/packages/NuGet.Package.ServerSide.Document",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nugetpackageserversidedocument2087338#4383247"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nugetpackageserversidedocument2087338/releases/4416742",
+  "@type" : "Component",
+  "name" : "NuGet.Package.ServerSide.Document",
+  "revision" : "1.0.0.13",
+  "homepage" : "http://www.nuget.org/packages/NuGet.Package.ServerSide.Document",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nugetpackageserversidedocument2087338#4416742"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nunitnetunittestingframework21v21/releases/2676209",
+  "@type" : "Component",
+  "name" : "NUnit .Net unit testing framework",
+  "revision" : "2.6.2",
+  "homepage" : "http://sourceforge.net/projects/nunit/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/nunitlicense_5018",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nunitnetunittestingframework21v21#2676209"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nunitnetunittestingframework21v21/releases/2326708",
+  "@type" : "Component",
+  "name" : "NUnit .Net unit testing framework",
+  "revision" : "2.6.1",
+  "homepage" : "http://sourceforge.net/projects/nunit/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/nunitlicense_5018",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nunitnetunittestingframework21v21#2326708"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nunitnetunittestingframework21v21/releases/3528204",
+  "@type" : "Component",
+  "name" : "NUnit .Net unit testing framework",
+  "revision" : "2.6.0.12054",
+  "homepage" : "http://www.nuget.org/packages/NUnit",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/nunitlicense_5018",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nunitnetunittestingframework21v21#3528204"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/nuspec1991776/releases/3969264",
+  "@type" : "Component",
+  "name" : "NuSpec",
+  "revision" : "1.2.3",
+  "homepage" : "http://www.nuget.org/packages/NuSpec",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nuspec1991776#3969264"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/objecthydrator1990458/releases/3962108",
+  "@type" : "Component",
+  "name" : "objecthydrator",
+  "revision" : "0.6.0",
+  "homepage" : "http://www.nuget.org/packages/objecthydrator",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "objecthydrator1990458#3962108"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/odafodafdatadependencies1934195/releases/3507726",
+  "@type" : "Component",
+  "name" : "ODAF ODAF.Data Dependencies",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/ODAF-ODAF.Data-Dependencies",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "odafodafdatadependencies1934195#3507726"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/odafodafsilverlightappdependencies1933484/releases/3504459",
+  "@type" : "Component",
+  "name" : "ODAF ODAF.SilverlightApp Dependencies",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/ODAF-ODAF.SilverlightApp-Dependencies",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "odafodafsilverlightappdependencies1933484#3504459"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/officialmongodbcdriver1930640/releases/3475130",
+  "@type" : "Component",
+  "name" : "Official MongoDB C# driver",
+  "revision" : "1.8.1",
+  "homepage" : "http://www.nuget.org/packages/mongocsharpdriver",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "officialmongodbcdriver1930640#3475130"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/opencover1050722/releases/2948389",
+  "@type" : "Component",
+  "name" : "opencover",
+  "revision" : "4.0.519",
+  "homepage" : "http://github.com/sawilde/opencover/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "opencover1050722#2948389"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/opencvsharpx861966019/releases/3735961",
+  "@type" : "Component",
+  "name" : "OpenCvSharp x86",
+  "revision" : "2.4.5.20131221",
+  "homepage" : "http://www.nuget.org/packages/OpenCvSharp-x86",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "opencvsharpx861966019#3735961"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/openlinkvirtuosoadonetprovider1958924/releases/3690351",
+  "@type" : "Component",
+  "name" : "OpenLink Virtuoso ADO.Net Provider",
+  "revision" : "6.2.3128",
+  "homepage" : "http://www.nuget.org/packages/OpenLink.Data.Virtuoso",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "openlinkvirtuosoadonetprovider1958924#3690351"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/opensearchtoolkit642912/releases/1074242",
+  "@type" : "Component",
+  "name" : "OpenSearch Toolkit",
+  "revision" : "1.1",
+  "homepage" : "http://opensearchtoolkit.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "opensearchtoolkit642912#1074242"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/opentkwithopenal1932074/releases/3487447",
+  "@type" : "Component",
+  "name" : "OpenTKWithOpenAL",
+  "revision" : "1.1.788.3121",
+  "homepage" : "http://www.nuget.org/packages/OpenTKWithOpenAL",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "opentkwithopenal1932074#3487447"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/orgmentalissecurity1932113/releases/3488466",
+  "@type" : "Component",
+  "name" : "Org.Mentalis.Security",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Org.Mentalis.Security",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "orgmentalissecurity1932113#3488466"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/oxyplotwpfnopcl1966222/releases/3751544",
+  "@type" : "Component",
+  "name" : "OxyPlot.Wpf_NoPCL",
+  "revision" : "2013.1.37.1",
+  "homepage" : "http://www.nuget.org/packages/OxyPlot.Wpf_NoPCL",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "oxyplotwpfnopcl1966222#3751544"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/packageveiculos1968905/releases/3762015",
+  "@type" : "Component",
+  "name" : "PackageVeiculos",
+  "revision" : "1.0.5",
+  "homepage" : "http://www.nuget.org/packages/PackageVeiculos",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "packageveiculos1968905#3762015"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/packageveiculos1968905/releases/3762014",
+  "@type" : "Component",
+  "name" : "PackageVeiculos",
+  "revision" : "1.0.3",
+  "homepage" : "http://www.nuget.org/packages/PackageVeiculos",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "packageveiculos1968905#3762014"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/packageveiculos1968905/releases/3755179",
+  "@type" : "Component",
+  "name" : "PackageVeiculos",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/PackageVeiculos",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "packageveiculos1968905#3755179"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/packageveiculos1968905/releases/3726400",
+  "@type" : "Component",
+  "name" : "PackageVeiculos",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/PackageVeiculos",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "packageveiculos1968905#3726400"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/pdflittlesigner1030443/releases/3969135",
+  "@type" : "Component",
+  "name" : "PDFLittleSigner",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/PDFLittleSigner",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "pdflittlesigner1030443#3969135"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/pdfsharp176668/releases/3848265",
+  "@type" : "Component",
+  "name" : "PDFsharp",
+  "revision" : "1.3",
+  "homepage" : "http://www.nuget.org/packages/PdfSharp",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "pdfsharp176668#3848265"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/pechkin1813402/releases/3876904",
+  "@type" : "Component",
+  "name" : "Pechkin",
+  "revision" : "0.5.8.1",
+  "homepage" : "http://www.nuget.org/packages/Pechkin",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/creativecommonsattribution30license",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "pechkin1813402#3876904"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/phoenixframework1982686/releases/3877084",
+  "@type" : "Component",
+  "name" : "Phoenix Framework",
+  "revision" : "0.2.0.129",
+  "homepage" : "http://www.nuget.org/packages/Phoenix",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "phoenixframework1982686#3877084"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/plossumcommandline1932314/releases/3496679",
+  "@type" : "Component",
+  "name" : "Plossum CommandLine",
+  "revision" : "0.3.0.14",
+  "homepage" : "http://www.nuget.org/packages/Plossum.CommandLine",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "plossumcommandline1932314#3496679"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/portablemodelsloader1961308/releases/3699864",
+  "@type" : "Component",
+  "name" : "Portable-Models-Loader",
+  "revision" : "1.0.5",
+  "homepage" : "http://www.nuget.org/packages/Portable-Models-Loader",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "portablemodelsloader1961308#3699864"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/portablemodelsloader1961308/releases/3699588",
+  "@type" : "Component",
+  "name" : "Portable-Models-Loader",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/Portable-Models-Loader",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "portablemodelsloader1961308#3699588"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/postsharpcache2071818/releases/4308080",
+  "@type" : "Component",
+  "name" : "PostSharp Cache",
+  "revision" : "1.0.0.8",
+  "homepage" : "http://www.nuget.org/packages/PostSharp.Cache",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "postsharpcache2071818#4308080"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/postsharpcache2071818/releases/5180400",
+  "@type" : "Component",
+  "name" : "PostSharp Cache",
+  "revision" : "1.0.0.12",
+  "homepage" : "http://www.nuget.org/packages/PostSharp.Cache",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "postsharpcache2071818#5180400"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/powershelldeploymentmodulesforvisualstudio1971570/releases/4511057",
+  "@type" : "Component",
+  "name" : "Powershell Deployment modules for Visual Studio",
+  "revision" : "1.2.0.25",
+  "homepage" : "http://www.nuget.org/packages/Powershell.Deployment",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "powershelldeploymentmodulesforvisualstudio1971570#4511057"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/premerassomanager2100094/releases/4446144",
+  "@type" : "Component",
+  "name" : "Premera SSO Manager",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/PremeraSSOManager",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "premerassomanager2100094#4446144"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/protobufnet531341/releases/3514313",
+  "@type" : "Component",
+  "name" : "protobuf-net",
+  "revision" : "1.0.0.280",
+  "homepage" : "http://www.nuget.org/packages/protobuf-net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "protobufnet531341#3514313"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/psiso1934328/releases/3509525",
+  "@type" : "Component",
+  "name" : "PsIso",
+  "revision" : "1.8.4142.36772",
+  "homepage" : "http://www.nuget.org/packages/PsIso",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "psiso1934328#3509525"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/quartznet1008148/releases/3009538",
+  "@type" : "Component",
+  "name" : "quartznet",
+  "revision" : "2.0.0",
+  "homepage" : "http://github.com/quartznet/quartznet/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "quartznet1008148#3009538"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ravendbclient1956265/releases/3679553",
+  "@type" : "Component",
+  "name" : "RavenDB Client",
+  "revision" : "1.0.888",
+  "homepage" : "http://www.nuget.org/packages/RavenDB.Client",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ravendbclient1956265#3679553"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/razormicrosoftnetapplicationsuite55473/releases/3426334",
+  "@type" : "Component",
+  "name" : "RAZOR - Microsoft.NET Application Suite",
+  "revision" : "1.0.20105.408",
+  "homepage" : "http://www.asp.net/web-pages",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftaspnetmodel-view-controllerlicense_5081",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "razormicrosoftnetapplicationsuite55473#3426334"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/reactiveui1005208/releases/1573599",
+  "@type" : "Component",
+  "name" : "ReactiveUI",
+  "revision" : "2.0.0.2",
+  "homepage" : "http://github.com/xpaulbettsx/ReactiveUI/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "reactiveui1005208#1573599"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/recaptchapluginfornet1930795/releases/3474151",
+  "@type" : "Component",
+  "name" : "reCAPTCHA plugin for .NET",
+  "revision" : "1.0.5.0",
+  "homepage" : "http://www.nuget.org/packages/recaptcha",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "recaptchapluginfornet1930795#3474151"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/redbranchhammock1934155/releases/3507483",
+  "@type" : "Component",
+  "name" : "RedBranch.Hammock",
+  "revision" : "1.0.0.0",
+  "homepage" : "http://www.nuget.org/packages/RedBranch.Hammock",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "redbranchhammock1934155#3507483"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/restfulrouting1931157/releases/3479765",
+  "@type" : "Component",
+  "name" : "restful-routing",
+  "revision" : "1.1.0",
+  "homepage" : "http://github.com/stevehodgkiss/restful-routing/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "restfulrouting1931157#3479765"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/resxmanager2429833/releases/4568493",
+  "@type" : "Component",
+  "name" : "RESXManager",
+  "revision" : "1.7",
+  "homepage" : "http://www.nuget.org/packages/RESXManager",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "resxmanager2429833#4568493"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/roadkillwiki1934114/releases/3509494",
+  "@type" : "Component",
+  "name" : "Roadkill Wiki",
+  "revision" : "1.70.1",
+  "homepage" : "http://www.nuget.org/packages/Roadkill",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "roadkillwiki1934114#3509494"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/roadkillwiki1934114/releases/3507774",
+  "@type" : "Component",
+  "name" : "Roadkill Wiki",
+  "revision" : "1.0.1.1",
+  "homepage" : "http://www.nuget.org/packages/Roadkill",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "roadkillwiki1934114#3507774"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/rotativa1443069/releases/3876846",
+  "@type" : "Component",
+  "name" : "Rotativa",
+  "revision" : "1.1",
+  "homepage" : "http://www.nuget.org/packages/Rotativa",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "rotativa1443069#3876846"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/roundhouse799747/releases/3878930",
+  "@type" : "Component",
+  "name" : "RoundhousE",
+  "revision" : "0.8.0.292",
+  "homepage" : "http://www.nuget.org/packages/roundhouse",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "roundhouse799747#3878930"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/savotestsframework1970204/releases/3736413",
+  "@type" : "Component",
+  "name" : "SAVO.Tests.Framework",
+  "revision" : "1.0.5135.33116",
+  "homepage" : "http://www.nuget.org/packages/SAVO.Tests.Framework",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "savotestsframework1970204#3736413"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/saxonhe2429693/releases/4567564",
+  "@type" : "Component",
+  "name" : "Saxon-HE",
+  "revision" : "9.3.0.1",
+  "homepage" : "http://www.nuget.org/packages/Saxon-HE",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mozillapubliclicense20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "saxonhe2429693#4567564"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/saxonhe2429693/releases/5077909",
+  "@type" : "Component",
+  "name" : "Saxon-HE",
+  "revision" : "9.6.0.7",
+  "homepage" : "http://www.nuget.org/packages/Saxon-HE",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mozillapubliclicense20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "saxonhe2429693#5077909"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/saxonhe2429693/releases/4567563",
+  "@type" : "Component",
+  "name" : "Saxon-HE",
+  "revision" : "9.3.0.11",
+  "homepage" : "http://www.nuget.org/packages/Saxon-HE",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mozillapubliclicense20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "saxonhe2429693#4567563"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/servicebus11forwindowsserver1955381/releases/3817689",
+  "@type" : "Component",
+  "name" : "Service Bus 1.1 for Windows Server",
+  "revision" : "1.0.3",
+  "homepage" : "http://www.nuget.org/packages/ServiceBus.v1_1",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "servicebus11forwindowsserver1955381#3817689"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/servicestack1411509/releases/3507452",
+  "@type" : "Component",
+  "name" : "ServiceStack.Caching.Memcached",
+  "revision" : "3.8.0",
+  "homepage" : "http://www.nuget.org/packages/ServiceStack.Caching.Memcached",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "servicestack1411509#3507452"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/servicestacklogginglog4netv1291956566/releases/3681212",
+  "@type" : "Component",
+  "name" : "ServiceStack.Logging.Log4Netv129",
+  "revision" : "1.0.2.0",
+  "homepage" : "http://www.nuget.org/packages/ServiceStack.Logging.Log4Netv129",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "servicestacklogginglog4netv1291956566#3681212"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/sharprepository1801333/releases/2817405",
+  "@type" : "Component",
+  "name" : "SharpRepository",
+  "revision" : "1.0.0.1",
+  "homepage" : "http://github.com/SharpRepository/SharpRepository/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "sharprepository1801333#2817405"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/sharpziplib187427/releases/1735750",
+  "@type" : "Component",
+  "name" : "SharpZipLib",
+  "revision" : "0.86.0",
+  "homepage" : "http://www.icsharpcode.net/OpenSource/SharpZipLib/Default.aspx",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/GNU_Classpath_License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "sharpziplib187427#1735750"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/siege1414285/releases/3486274",
+  "@type" : "Component",
+  "name" : "Siege.Repository",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Siege.Repository",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "siege1414285#3486274"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/signalr1333486/releases/3060881",
+  "@type" : "Component",
+  "name" : "SignalR",
+  "revision" : "1.0.0",
+  "homepage" : "http://github.com/SignalR/SignalR/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "signalr1333486#3060881"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/silverlightclassifiedcabinet1031070/releases/1600841",
+  "@type" : "Component",
+  "name" : "Silverlight Classified Cabinet",
+  "revision" : "1.0",
+  "homepage" : "http://classifiedcabinet.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "silverlightclassifiedcabinet1031070#1600841"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/smolibraryforsqlserver20082795975/releases/4852828",
+  "@type" : "Component",
+  "name" : "SMO Library for SQL Server 2008",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.SqlServer.Smo.dll",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "smolibraryforsqlserver20082795975#4852828"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/snaplinfu1962696/releases/3729523",
+  "@type" : "Component",
+  "name" : "SNAP.LinFu",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/SNAP.LinFu",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "snaplinfu1962696#3729523"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/solrnet859112/releases/1945375",
+  "@type" : "Component",
+  "name" : "SolrNet",
+  "revision" : "0.3.0",
+  "homepage" : "http://github.com/mausch/SolrNet/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "solrnet859112#1945375"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/sparctagcloud1932914/releases/3500935",
+  "@type" : "Component",
+  "name" : "Sparc.TagCloud",
+  "revision" : "0.0.1",
+  "homepage" : "http://www.nuget.org/packages/Sparc.TagCloud",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "sparctagcloud1932914#3500935"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/spark1991566/releases/3966245",
+  "@type" : "Component",
+  "name" : "Spark",
+  "revision" : "1.7.5.3",
+  "homepage" : "http://www.nuget.org/packages/Spark",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "spark1991566#3966245"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/specflow733197/releases/1915488",
+  "@type" : "Component",
+  "name" : "SpecFlow",
+  "revision" : "1.4.0",
+  "homepage" : "http://github.com/techtalk/SpecFlow/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "specflow733197#1915488"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/splicer619330/releases/3818542",
+  "@type" : "Component",
+  "name" : "Splicer",
+  "revision" : "1.1.0",
+  "homepage" : "http://www.nuget.org/packages/Splicer",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "splicer619330#3818542"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/springframework1869467/releases/4393613",
+  "@type" : "Component",
+  "name" : "Spring Framework",
+  "revision" : "1.3.2",
+  "homepage" : "http://www.nuget.org/packages/Spring.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "springframework1869467#4393613"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/springframework1869467/releases/4393611",
+  "@type" : "Component",
+  "name" : "Spring Framework",
+  "revision" : "1.3.1",
+  "homepage" : "http://www.nuget.org/packages/Spring.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "springframework1869467#4393611"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/springdata1991538/releases/3965934",
+  "@type" : "Component",
+  "name" : "Spring.Data",
+  "revision" : "1.3.2",
+  "homepage" : "http://www.nuget.org/packages/Spring.Data",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "springdata1991538#3965934"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/sprutusb4allframework1965831/releases/3761511",
+  "@type" : "Component",
+  "name" : "Sprut.Usb4All.Framework",
+  "revision" : "0.2.2016.0",
+  "homepage" : "http://www.nuget.org/packages/Sprut.Usb4All",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/gpl20only",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "sprutusb4allframework1965831#3761511"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/squishit804912/releases/1939417",
+  "@type" : "Component",
+  "name" : "SquishIt",
+  "revision" : "0.7.1",
+  "homepage" : "http://github.com/jetheredge/SquishIt/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "squishit804912#1939417"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/statlight811574/releases/3876650",
+  "@type" : "Component",
+  "name" : "StatLight",
+  "revision" : "1.2.3919",
+  "homepage" : "http://www.nuget.org/packages/StatLight",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "statlight811574#3876650"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/steamkit21962837/releases/3770865",
+  "@type" : "Component",
+  "name" : "SteamKit",
+  "revision" : "1.5.1",
+  "homepage" : "http://github.com/SteamRE/SteamKit/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "steamkit21962837#3770865"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/storyteller2400053/releases/4562203",
+  "@type" : "Component",
+  "name" : "Storyteller",
+  "revision" : "1.0.2.470",
+  "homepage" : "http://www.nuget.org/packages/Storyteller",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "storyteller2400053#4562203"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/structuremap1869511/releases/3472405",
+  "@type" : "Component",
+  "name" : "structuremap",
+  "revision" : "2.6.1.0",
+  "homepage" : "http://www.nuget.org/packages/structuremap",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "structuremap1869511#3472405"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/structuremap1869511/releases/3474216",
+  "@type" : "Component",
+  "name" : "structuremap",
+  "revision" : "2.6.4.1",
+  "homepage" : "http://www.nuget.org/packages/structuremap",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "structuremap1869511#3474216"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/structuremap1869511/releases/3019255",
+  "@type" : "Component",
+  "name" : "structuremap",
+  "revision" : "2.6.2",
+  "homepage" : "http://github.com/structuremap/structuremap/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "structuremap1869511#3019255"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/studioshell1934108/releases/3507187",
+  "@type" : "Component",
+  "name" : "StudioShell",
+  "revision" : "1.5.1.1",
+  "homepage" : "http://www.nuget.org/packages/StudioShell",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftreciprocallicensems-rl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "studioshell1934108#3507187"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/subsonicscaffold1957970/releases/3683859",
+  "@type" : "Component",
+  "name" : "SubSonic.Scaffold",
+  "revision" : "2.2.0.0",
+  "homepage" : "http://www.nuget.org/packages/SubSonic.Scaffold",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "subsonicscaffold1957970#3683859"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/sumzlib2429838/releases/4568507",
+  "@type" : "Component",
+  "name" : "sumzlib",
+  "revision" : "1.1.0",
+  "homepage" : "http://www.nuget.org/packages/sumzlib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/zlib",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "sumzlib2429838#4568507"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/systemdatasqlitecorex86x641944691/releases/4382036",
+  "@type" : "Component",
+  "name" : "System.Data.SQLite Core (x86/x64)",
+  "revision" : "1.0.94",
+  "homepage" : "http://www.nuget.org/packages/System.Data.SQLite.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "systemdatasqlitecorex86x641944691#4382036"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/takenetenterpriselibrary2138804/releases/4503665",
+  "@type" : "Component",
+  "name" : "Takenet.EnterpriseLibrary",
+  "revision" : "1.0.1",
+  "homepage" : "http://www.nuget.org/packages/Takenet.EnterpriseLibrary",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "takenetenterpriselibrary2138804#4503665"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/talifuncrushermsbuild1970509/releases/3956175",
+  "@type" : "Component",
+  "name" : "Talifun.Crusher.MsBuild",
+  "revision" : "3.0.1",
+  "homepage" : "http://www.nuget.org/packages/Talifun.Crusher.MsBuild",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "talifuncrushermsbuild1970509#3956175"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/talifunweb951597/releases/3956171",
+  "@type" : "Component",
+  "name" : "Talifun.Web",
+  "revision" : "3.0.1",
+  "homepage" : "http://www.nuget.org/packages/Talifun.Web",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "talifunweb951597#3956171"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/tamirsharpssh1932045/releases/3487015",
+  "@type" : "Component",
+  "name" : "Tamir.SharpSSH",
+  "revision" : "1.1.1.13",
+  "homepage" : "http://www.nuget.org/packages/Tamir.SharpSSH",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "tamirsharpssh1932045#3487015"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/testportable181972475/releases/3761418",
+  "@type" : "Component",
+  "name" : "TestPortable18",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/TestPortable18",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "testportable181972475#3761418"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/thec5genericcollectionlibrary531685/releases/3777542",
+  "@type" : "Component",
+  "name" : "The C5 Generic Collection Library",
+  "revision" : "1.0.2.0",
+  "homepage" : "http://www.nuget.org/packages/C5",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "thec5genericcollectionlibrary531685#3777542"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/tourmlprotocol1961191/releases/5122952",
+  "@type" : "Component",
+  "name" : "TourML Protocol",
+  "revision" : "2.1.8.1",
+  "homepage" : "http://www.nuget.org/packages/TourML",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "tourmlprotocol1961191#5122952"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/troschuetzrandom1968181/releases/3745531",
+  "@type" : "Component",
+  "name" : "Troschuetz.Random",
+  "revision" : "1.4.2.1",
+  "homepage" : "http://www.nuget.org/packages/Troschuetz.Random",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "troschuetzrandom1968181#3745531"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/troveunofficialfleefastlightweightexpressionevaluator1932764/releases/3499066",
+  "@type" : "Component",
+  "name" : "Trove Unofficial FLEE (Fast Lightweight Expression Evaluator)",
+  "revision" : "0.9.26.0",
+  "homepage" : "http://www.nuget.org/packages/Trove.FLEE",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "troveunofficialfleefastlightweightexpressionevaluator1932764#3499066"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/troveunofficialniniconfiguration1932008/releases/3486139",
+  "@type" : "Component",
+  "name" : "Trove Unofficial Nini Configuration",
+  "revision" : "1.1.0.0",
+  "homepage" : "http://www.nuget.org/packages/Trove.Nini",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "troveunofficialniniconfiguration1932008#3486139"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/typelibinformation2138348/releases/4500847",
+  "@type" : "Component",
+  "name" : "TypeLibInformation",
+  "revision" : "1.2.0",
+  "homepage" : "http://www.nuget.org/packages/TypeLibInformation",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "typelibinformation2138348#4500847"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/umbracocmscorebinaries1930702/releases/3475520",
+  "@type" : "Component",
+  "name" : "Umbraco Cms Core Binaries",
+  "revision" : "4.8.0-beta",
+  "homepage" : "http://www.nuget.org/packages/UmbracoCms.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "umbracocmscorebinaries1930702#3475520"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/umbracocmscorebinaries1930702/releases/3472868",
+  "@type" : "Component",
+  "name" : "Umbraco Cms Core Binaries",
+  "revision" : "4.7.2",
+  "homepage" : "http://www.nuget.org/packages/UmbracoCms.Core",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "umbracocmscorebinaries1930702#3472868"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/unofficialbindinglistview1972283/releases/3759914",
+  "@type" : "Component",
+  "name" : "Unofficial.BindingListView",
+  "revision" : "1.2.0.0",
+  "homepage" : "http://www.nuget.org/packages/Unofficial.BindingListView",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "unofficialbindinglistview1972283#3759914"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/unofficialunity2100524/releases/4449613",
+  "@type" : "Component",
+  "name" : "Unofficial.Unity",
+  "revision" : "1.2.0",
+  "homepage" : "http://www.nuget.org/packages/Unofficial.Unity",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "unofficialunity2100524#4449613"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/urlrewritingneturlrewrite1957981/releases/3683878",
+  "@type" : "Component",
+  "name" : "UrlRewritingNet.UrlRewrite",
+  "revision" : "2.0.6.1",
+  "homepage" : "http://www.nuget.org/packages/UrlRewritingNet",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "urlrewritingneturlrewrite1957981#3683878"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/utilityandhelpercollection1933328/releases/3510003",
+  "@type" : "Component",
+  "name" : "Utility and Helper Collection",
+  "revision" : "2.0",
+  "homepage" : "http://www.nuget.org/packages/CodeForceLib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "utilityandhelpercollection1933328#3510003"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/utilityandhelpercollection1933328/releases/3504016",
+  "@type" : "Component",
+  "name" : "Utility and Helper Collection",
+  "revision" : "2.0.5",
+  "homepage" : "http://www.nuget.org/packages/CodeForceLib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "utilityandhelpercollection1933328#3504016"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/utilityandhelpercollection1933328/releases/3505323",
+  "@type" : "Component",
+  "name" : "Utility and Helper Collection",
+  "revision" : "2.0.2",
+  "homepage" : "http://www.nuget.org/packages/CodeForceLib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "utilityandhelpercollection1933328#3505323"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/utilityandhelpercollection1933328/releases/3509516",
+  "@type" : "Component",
+  "name" : "Utility and Helper Collection",
+  "revision" : "2.0.1",
+  "homepage" : "http://www.nuget.org/packages/CodeForceLib",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "utilityandhelpercollection1933328#3509516"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/visioautomationvdx1962946/releases/3758147",
+  "@type" : "Component",
+  "name" : "VisioAutomation2010",
+  "revision" : "1.0.9",
+  "homepage" : "http://www.nuget.org/packages/VisioAutomation2010",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "visioautomationvdx1962946#3758147"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/visualstudioasyncctpversion3unofficial1931848/releases/3483434",
+  "@type" : "Component",
+  "name" : "Visual Studio Async CTP (Version 3, Unofficial)",
+  "revision" : "0.3",
+  "homepage" : "http://www.nuget.org/packages/AsyncCTP",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "visualstudioasyncctpversion3unofficial1931848#3483434"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssdkdebuggerinterop101971530/releases/3749518",
+  "@type" : "Component",
+  "name" : "VSSDK.Debugger.Interop.10",
+  "revision" : "10.0.0",
+  "homepage" : "http://www.nuget.org/packages/VSSDK.Debugger.Interop.10",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssdkdebuggerinterop101971530#3749518"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssdkshell81993219/releases/4003635",
+  "@type" : "Component",
+  "name" : "VSSDK.Shell.8",
+  "revision" : "8.0.2",
+  "homepage" : "http://www.nuget.org/packages/VSSDK.Shell.8",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssdkshell81993219#4003635"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssdkshellinterop101958541/releases/3687248",
+  "@type" : "Component",
+  "name" : "VSSDK.Shell.Interop.10",
+  "revision" : "10.0.0",
+  "homepage" : "http://www.nuget.org/packages/VSSDK.Shell.Interop.10",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssdkshellinterop101958541#3687248"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssdkshellinterop81993217/releases/4003632",
+  "@type" : "Component",
+  "name" : "VSSDK.Shell.Interop.8",
+  "revision" : "8.0.2",
+  "homepage" : "http://www.nuget.org/packages/VSSDK.Shell.Interop.8",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssdkshellinterop81993217#4003632"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssdktemplatewizardinterface2138839/releases/4503830",
+  "@type" : "Component",
+  "name" : "VSSDK.TemplateWizardInterface",
+  "revision" : "14.0.4-preview",
+  "homepage" : "http://www.nuget.org/packages/VSSDK.TemplateWizardInterface",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssdktemplatewizardinterface2138839#4503830"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssdktextmanagerinterop101956715/releases/3678085",
+  "@type" : "Component",
+  "name" : "VSSDK.TextManager.Interop.10",
+  "revision" : "10.0.0",
+  "homepage" : "http://www.nuget.org/packages/VSSDK.TextManager.Interop.10",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssdktextmanagerinterop101956715#3678085"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssdktextmanagerinterop81993223/releases/4003645",
+  "@type" : "Component",
+  "name" : "VSSDK.TextManager.Interop.8",
+  "revision" : "8.0.2",
+  "homepage" : "http://www.nuget.org/packages/VSSDK.TextManager.Interop.8",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssdktextmanagerinterop81993223#4003645"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/vssolutionbuildeventcimsbuild2779715/releases/5054424",
+  "@type" : "Component",
+  "name" : "vsSolutionBuildEvent CI.MSBuild",
+  "revision" : "1.3.0",
+  "homepage" : "http://www.nuget.org/packages/vsSBE.CI.MSBuild",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "vssolutionbuildeventcimsbuild2779715#5054424"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/watin213673/releases/3528726",
+  "@type" : "Component",
+  "name" : "WatiN",
+  "revision" : "2.1.0",
+  "homepage" : "http://www.nuget.org/packages/WatiN",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "watin213673#3528726"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/watin213673/releases/3528727",
+  "@type" : "Component",
+  "name" : "WatiN",
+  "revision" : "2.0.50",
+  "homepage" : "http://www.nuget.org/packages/WatiN",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "watin213673#3528727"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wazmemcachedserver1932827/releases/3499727",
+  "@type" : "Component",
+  "name" : "WazMemcachedServer",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/WazMemcachedServer",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wazmemcachedserver1932827#3499727"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/weaverasp1964858/releases/3742396",
+  "@type" : "Component",
+  "name" : "WeaverASP",
+  "revision" : "1.0.5",
+  "homepage" : "http://www.nuget.org/packages/WeaverASP",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "weaverasp1964858#3742396"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/weaverasp1964858/releases/3710081",
+  "@type" : "Component",
+  "name" : "WeaverASP",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/WeaverASP",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "weaverasp1964858#3710081"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/webformcontribsource1933915/releases/3506175",
+  "@type" : "Component",
+  "name" : "WebFormContrib.Source",
+  "revision" : "1.2",
+  "homepage" : "http://www.nuget.org/packages/WebFormContrib.Source",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "webformcontribsource1933915#3506175"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/webgrease1732673/releases/3426370",
+  "@type" : "Component",
+  "name" : "WebGrease",
+  "revision" : "1.3.0",
+  "homepage" : "https://nuget.org/packages/WebGrease",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftmsnwebgreaseeula_5264",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "webgrease1732673#3426370"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wgetforwindowswin321968649/releases/3724920",
+  "@type" : "Component",
+  "name" : "WGET for Windows (win32)",
+  "revision" : "1.11.4",
+  "homepage" : "http://www.nuget.org/packages/WGETWindows",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/GPL30",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wgetforwindowswin321968649#3724920"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wiimotelib577301/releases/1013564",
+  "@type" : "Component",
+  "name" : "WiimoteLib",
+  "revision" : "1.7",
+  "homepage" : "http://wiimotelib.codeplex.com/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wiimotelib577301#1013564"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/windowsazurecaching1930679/releases/3810476",
+  "@type" : "Component",
+  "name" : "Windows Azure Caching",
+  "revision" : "2.3.0",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.WindowsAzure.Caching",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "windowsazurecaching1930679#3810476"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/windowsidentityfoundation1930812/releases/3475370",
+  "@type" : "Component",
+  "name" : "Windows Identity Foundation",
+  "revision" : "6.1.7600.16394",
+  "homepage" : "http://www.nuget.org/packages/Microsoft.IdentityModel",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unknown",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "windowsidentityfoundation1930812#3475370"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/windwardengine2788665/releases/4756750",
+  "@type" : "Component",
+  "name" : "Windward Engine",
+  "revision" : "13.1.28.3",
+  "homepage" : "http://www.nuget.org/packages/WindwardEngine",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "windwardengine2788665#4756750"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wixtoolsetunofficial1972100/releases/3756611",
+  "@type" : "Component",
+  "name" : "WiX Toolset (unofficial)",
+  "revision" : "3.8.1128",
+  "homepage" : "http://www.nuget.org/packages/WiX.Toolset",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wixtoolsetunofficial1972100#3756611"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wixwindowsinstallerxmltoolset2792917/releases/5182340",
+  "@type" : "Component",
+  "name" : "WiX: Windows Installer XML Toolset",
+  "revision" : "3.8.0.1",
+  "homepage" : "http://www.nuget.org/packages/WiX",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wixwindowsinstallerxmltoolset2792917#5182340"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wixwindowsinstallerxmltoolset2792917/releases/4810931",
+  "@type" : "Component",
+  "name" : "WiX: Windows Installer XML Toolset",
+  "revision" : "3.8.0",
+  "homepage" : "http://www.nuget.org/packages/WiX",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wixwindowsinstallerxmltoolset2792917#4810931"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wixwindowsinstallerxmltoolset2792917/releases/5182337",
+  "@type" : "Component",
+  "name" : "WiX: Windows Installer XML Toolset",
+  "revision" : "3.9.2.1",
+  "homepage" : "http://www.nuget.org/packages/WiX",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wixwindowsinstallerxmltoolset2792917#5182337"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wolfpackcontribpublishersemail1957924/releases/3683624",
+  "@type" : "Component",
+  "name" : "Wolfpack.Contrib.Publishers.Email",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/Wolfpack.Contrib.Publishers.Email",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftreciprocallicensems-rl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wolfpackcontribpublishersemail1957924#3683624"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/wpfextensions581794/releases/3878918",
+  "@type" : "Component",
+  "name" : "WPFExtensions",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/WPFExtensions",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "wpfextensions581794#3878918"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/gdirenderer1964053/releases/3708613",
+  "@type" : "Component",
+  "name" : "XNA Renderer",
+  "revision" : "0.2.0",
+  "homepage" : "http://www.nuget.org/packages/Xemio-GameLibrary-Xna-Renderer",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "gdirenderer1964053#3708613"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/yamlserializer1931314/releases/3479506",
+  "@type" : "Component",
+  "name" : "YamlSerializer",
+  "revision" : "1.0",
+  "homepage" : "http://www.nuget.org/packages/YamlSerializer",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "yamlserializer1931314#3479506"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ydeliver1863659/releases/3739191",
+  "@type" : "Component",
+  "name" : "ydeliver",
+  "revision" : "0.1.0",
+  "homepage" : "http://www.nuget.org/packages/ydeliver",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ydeliver1863659#3739191"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/ygdc1971598/releases/3750291",
+  "@type" : "Component",
+  "name" : "YGDC",
+  "revision" : "1.0.0",
+  "homepage" : "http://www.nuget.org/packages/YGDC",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "ygdc1971598#3750291"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/yuicompressor582030/releases/3474330",
+  "@type" : "Component",
+  "name" : "YUICompressor .NET",
+  "revision" : "1.5.0.0",
+  "homepage" : "http://www.nuget.org/packages/YUICompressor.NET",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "yuicompressor582030#3474330"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/zedgraphsourcedevelopmentreleases423/releases/936945",
+  "@type" : "Component",
+  "name" : "ZedGraph",
+  "revision" : "5.1.5",
+  "homepage" : "http://sourceforge.net/projects/zedgraph/",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "zedgraphsourcedevelopmentreleases423#936945"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/zedgraphwebcontrols1932526/releases/3497443",
+  "@type" : "Component",
+  "name" : "ZedGraph Web Controls",
+  "revision" : "5.1.5",
+  "homepage" : "http://www.nuget.org/packages/ZedGraph.Web",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "zedgraphwebcontrols1932526#3497443"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/components/zlibnet1931564/releases/3483243",
+  "@type" : "Component",
+  "name" : "zlib.net",
+  "revision" : "1.0.3.0",
+  "homepage" : "http://www.nuget.org/packages/zlib.net",
+  "license" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "zlibnet1931564#3483243"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/acme_proprietary",
+  "@type" : "License",
+  "spdx:name" : "[template] Basic Proprietary Commercial License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "acme_proprietary"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/academicfree21_license",
+  "@type" : "License",
+  "spdx:name" : "Academic Free License v2.1",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "academicfree21_license"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/Apache20",
+  "@type" : "License",
+  "spdx:name" : "Apache License 2.0",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "Apache20"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/bsd2clasue_license",
+  "@type" : "License",
+  "spdx:name" : "BSD 2-clause \"Simplified\" License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "bsd2clasue_license"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/bsd20",
+  "@type" : "License",
+  "spdx:name" : "BSD 3-clause \"New\" or \"Revised\" License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "bsd20"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/creativecommonsattribution30license",
+  "@type" : "License",
+  "spdx:name" : "Creative Commons Attribution 3.0",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "creativecommonsattribution30license"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/creativecommonsattributionshare-alike30license",
+  "@type" : "License",
+  "spdx:name" : "Creative Commons Attribution Share Alike 3.0",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "creativecommonsattributionshare-alike30license"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/gpl20only",
+  "@type" : "License",
+  "spdx:name" : "GNU General Public License v2.0 only",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "gpl20only"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/GNU_Classpath_License",
+  "@type" : "License",
+  "spdx:name" : "GNU General Public License v2.0 w/Classpath exception",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "GNU_Classpath_License"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/GPL30",
+  "@type" : "License",
+  "spdx:name" : "GNU General Public License v3.0 or later",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "GPL30"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl21",
+  "@type" : "License",
+  "spdx:name" : "GNU Lesser General Public License v2.1 or later",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "lgpl21"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl3",
+  "@type" : "License",
+  "spdx:name" : "GNU Lesser General Public License v3.0 or later",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "lgpl3"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/lgpl20",
+  "@type" : "License",
+  "spdx:name" : "GNU Library General Public License v2 or later",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "lgpl20"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftaspnetmodel-view-controllerlicense_5081",
+  "@type" : "License",
+  "spdx:name" : "Microsoft ASP.NET Model-View-Controller License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftaspnetmodel-view-controllerlicense_5081"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftmsnwebgreaseeula_5264",
+  "@type" : "License",
+  "spdx:name" : "Microsoft MSN WebGrease EULA",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftmsnwebgreaseeula_5264"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/Microsoft_Permissive_License",
+  "@type" : "License",
+  "spdx:name" : "Microsoft Permissive License (Ms-PL)",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "Microsoft_Permissive_License"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftpubliclicensems-pl",
+  "@type" : "License",
+  "spdx:name" : "Microsoft Public License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftpubliclicensems-pl"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/microsoftreciprocallicensems-rl",
+  "@type" : "License",
+  "spdx:name" : "Microsoft Reciprocal License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "microsoftreciprocallicensems-rl"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/mit2",
+  "@type" : "License",
+  "spdx:name" : "MIT License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mit2"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/mozillapubliclicense20",
+  "@type" : "License",
+  "spdx:name" : "Mozilla Public License 2.0",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "mozillapubliclicense20"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/nunitlicense_5018",
+  "@type" : "License",
+  "spdx:name" : "Nunit License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "nunitlicense_5018"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/PostgresSQL_License",
+  "@type" : "License",
+  "spdx:name" : "PostgreSQL License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "PostgresSQL_License"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/unknown",
+  "@type" : "License",
+  "spdx:name" : "Unknown License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "unknown"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/unspecified",
+  "@type" : "License",
+  "spdx:name" : "Unspecified",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "unspecified"
+  }
+}, {
+  "@id" : "http://qa-px07.dc1.lan:80/p/licenses/zlib",
+  "@type" : "License",
+  "spdx:name" : "zlib License",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "bdsuite",
+    "externalId" : "zlib"
+  }
+} ]

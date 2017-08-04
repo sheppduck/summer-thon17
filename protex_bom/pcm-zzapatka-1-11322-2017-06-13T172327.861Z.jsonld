@@ -1,0 +1,22 @@
+[ {
+  "@id" : "file://pcm-zzapatka-1/Users/zzapatka/Documents/11322#SPDXRef-DOCUMENT",
+  "@type" : "BillOfMaterials",
+  "specVersion" : "1.1.0",
+  "spdx:name" : "/Users/zzapatka/Documents/11322",
+  "creationInfo" : {
+    "spdx:creator" : "Tool: ScanClient",
+    "spdx:created" : "2017-06-13T17:23:28.000Z"
+  }
+}, {
+  "@id" : "file://pcm-zzapatka-1/Users/zzapatka/Documents/11322#declared-components",
+  "@type" : "Project"
+}, {
+  "@id" : "https://registry.npmjs.org/%3C%25=moduleName%25%3E/-/%3C%25=moduleName%25%3E-1.0.0.tgz",
+  "@type" : "Component",
+  "name" : "<%=moduleName%>",
+  "revision" : "=1.0.0",
+  "externalIdentifier" : {
+    "externalSystemTypeId" : "npm",
+    "externalId" : "<%=moduleName%>@1.0.0"
+  }
+} ]
