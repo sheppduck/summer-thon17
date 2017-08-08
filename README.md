@@ -25,12 +25,23 @@ Copy the performance/* to your local system such that the command within the Doc
 COPY ./performance/artifacts/* /var/tmp/performance/
 Will execute successfully and copies the DIRs and all files from your local system to /var/tmp/performance within the test container.  Feel free to modify the COPY command as needed.
 
+====Build instructions====
+From within the directory where the Dockerfile and the entrypoint files are run:
+'docker build -t testhack . ; docker run testhack' <Return>
+
+====Run instructions===
+after running docker build, just run this next:
+' docker run hacktest'
+
+==Localhost Hub===
+====Build instructions for a localhost HUB===
 To build  and run the container (and drop into shell inside the stress container:
 docker build -t testhack . #; docker run -t -i --network hub_default --link <hub-nginx_CONTAINER ID>:hub_webserver_1 -e "HUB_SERVER=hub_webserver_1" testhack /bin/sh
 
 e.g.
 docker build -t testhack . #; docker run -t -i --network hub_default --link ac403453ded9:hub_webserver_1 -e "HUB_SERVER=hub_webserver_1" testhack /bin/sh
 
+====Run instructions for a localhost Hub===
 Just run the conatiner:
 docker run -t -i --network hub_default --link <hub-nginx_CONTAINER ID>:hub_webserver_1 -e "HUB_SERVER=hub_webserver_1" testhack /bin/sh
 
